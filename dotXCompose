@@ -11,9 +11,30 @@ include "%L"
 #     emit(' '.join("<%s>" % char for char in str(num)), 0x245f + num, word)
 
 # Custom additions: Typography
-<Multi_key> <period> <period>		: "…"	U2026		# HORIZONTAL ELLIPSIS
-<Multi_key> <v> <period> <period>	: "⋮"	U22EE		# VERTICAL ELLIPSIS
-<Multi_key> <c> <period> <period>	: "⋯"	U22EF		# MIDLINE HORIZONTAL ELLIPSIS
+<Multi_key> <w> <d> <t>                 : "▽" U25BD         # WHITE DOWN-POINTING TRIANGLE
+<Multi_key> <w> <u> <t>                 : "△" U25B3         # WHITE UP-POINTING TRIANGLE
+<Multi_key> <b> <u> <t>                 : "▲" U25B2         # BLACK UP-POINTING TRIANGLE
+<Multi_key> <l> <f> <l>                 : "⌞" U231E         # BOTTOM LEFT CORNER
+<Multi_key> <r> <f> <l>                 : "⌟" U231F         # BOTTOM RIGHT CORNER
+<Multi_key> <r> <c> <l>                 : "⌝" U231D         # TOP RIGHT CORNER
+<Multi_key> <l> <c> <l>                 : "⌜" U231C         # TOP LEFT CORNER 
+<Multi_key> <b> <c> <i>                 : "●" U25CF         # BLACK CIRCLE
+<Multi_key> <w> <c> <i>                 : "◯" U25EF         # LARGE CIRCLE
+<Multi_key> <w> <s> <q>                 : "□" U25A1         # WHITE SQUARE
+<Multi_key> <b> <s> <q>                 : "■" U25A0         # BLACK SQUARE
+<Multi_key> <w> <s> <s>                 : "☐" U2610         # BALLOT BOX
+<Multi_key> <backslash> <greater>       : "▷" U25B7	        # WHITE RIGHT-POINTING TRIANGLE
+<Multi_key> <less> <asciitilde> <greater> : "↭" U21AD       # LEFT RIGHT WAVE ARROW
+<Multi_key> <bar> <underscore> <bar>    : "⊔" U2294         # SQUARE UNION
+<Multi_key> <less> <minus> <slash>      : "↩" U21A9         # Leftwards Arrow With Hook
+<Multi_key> <slash> <minus> <greater>   : "↪" U21AA         # Rightwards Arrow With Hook
+<Multi_key> <bar> <minus>               : "⊢" U22A2         # RIGHT STACK, VDASH, ENTAILS     
+<Multi_key> <m> <c> <V>	            	: "𝓥" U1D4E5        # Mathcal V
+<Multi_key> <m> <c> <S>	            	: "𝓢" U1D4E2        # Mathcal S
+<Multi_key> <i> <m>                     : "𝑚" U1D45A        # ITALIC SMALL M
+<Multi_key> <period> <period>		    : "…"	U2026		# HORIZONTAL ELLIPSIS
+<Multi_key> <v> <period> <period>	    : "⋮"	U22EE		# VERTICAL ELLIPSIS
+<Multi_key> <c> <period> <period>	    : "⋯"	U22EF		# MIDLINE HORIZONTAL ELLIPSIS
 <Multi_key> <slash> <period> <period>	: "⋰"	U22F0		# UP RIGHT DIAGONAL ELLIPSIS
 # To avoid conflict with \. for combining dot above.
 #<Multi_key> <backslash> <period> <period> : "⋱" U22F1		# DOWN RIGHT DIAGONAL ELLIPSIS
@@ -72,7 +93,7 @@ include "%L"
 <Multi_key> <space> <t>                 : " the "
 <Multi_key> <space> <T>                 : "  The "
 <Multi_key> <space> <a>                 : " and "
-<Multi_key> <i> <m>                     : " I’m "
+# <Multi_key> <i> <m>                     : " I’m "
 <Multi_key> <v> <e>                     : "’ve "
 
 <Multi_key> <comma> <at>		: "⸲"	U2E32		# TURNED COMMA
