@@ -1,0 +1,2289 @@
+{
+	"\U00A7" = {
+		"\U0020" = {
+			"\U0022" = ("insertText:", "\U0020"); /* Compose, SPACE, QUOTATION MARK: SPACE */
+			"\U0027" = ("insertText:", "\U0020"); /* Compose, SPACE, APOSTROPHE: SPACE */
+			"\U002D" = ("insertText:", "\U2009"); /* Compose, SPACE, HYPHEN-MINUS: THIN SPACE */
+			"\U0033" = {
+				"\U004D" = ("insertText:", "\U2004"); /* Compose, SPACE, DIGIT THREE, LATIN CAPITAL LETTER M: THREE-PER-EM SPACE */
+			};
+			"\U0034" = {
+				"\U004D" = ("insertText:", "\U2005"); /* Compose, SPACE, DIGIT FOUR, LATIN CAPITAL LETTER M: FOUR-PER-EM SPACE */
+			};
+			"\U004D" = ("insertText:", "\U2003"); /* Compose, SPACE, LATIN CAPITAL LETTER M: EM SPACE */
+			"\U004E" = ("insertText:", "\U2002"); /* Compose, SPACE, LATIN CAPITAL LETTER N: EN SPACE */
+			"\U0054" = ("insertText:", "\U0020"); /* Compose, SPACE, LATIN CAPITAL LETTER T: SPACE */
+			"\U0061" = ("insertText:", "\U0020"); /* Compose, SPACE, LATIN SMALL LETTER A: SPACE */
+			"\U0074" = ("insertText:", "\U0020"); /* Compose, SPACE, LATIN SMALL LETTER T: SPACE */
+		};
+		"\U0021" = {
+			"\U0026" = {
+				"\U0021" = ("insertText:", "\U203C"); /* Compose, EXCLAMATION MARK, AMPERSAND, EXCLAMATION MARK: DOUBLE EXCLAMATION MARK */
+				"\U003F" = ("insertText:", "\U2049"); /* Compose, EXCLAMATION MARK, AMPERSAND, QUESTION MARK: EXCLAMATION QUESTION MARK */
+			};
+			"\U002E" = ("insertText:", "\UA78B"); /* Compose, EXCLAMATION MARK, FULL STOP: LATIN CAPITAL LETTER SALTILLO */
+			"\U003C" = {
+				"\U0033" = ("insertText:", "\U2763"); /* Compose, EXCLAMATION MARK, LESS-THAN SIGN, DIGIT THREE: HEAVY HEART EXCLAMATION MARK ORNAMENT */
+				"\U003E" = ("insertText:", "\U2278"); /* Compose, EXCLAMATION MARK, LESS-THAN SIGN, GREATER-THAN SIGN: NEITHER LESS-THAN NOR GREATER-THAN */
+			};
+			"\U003D" = ("insertText:", "\U2260"); /* Compose, EXCLAMATION MARK, EQUALS SIGN: NOT EQUAL TO */
+			"\U003F" = ("insertText:", "\U203D"); /* Compose, EXCLAMATION MARK, QUESTION MARK: INTERROBANG */
+			"\U005E" = ("insertText:", "\U26A0"); /* Compose, EXCLAMATION MARK, CIRCUMFLEX ACCENT: WARNING SIGN */
+			"\U005F" = {
+				"\U002E" = ("insertText:", "\UA78C"); /* Compose, EXCLAMATION MARK, LOW LINE, FULL STOP: LATIN SMALL LETTER SALTILLO */
+			};
+			"\U0069" = {
+				"\U006E" = ("insertText:", "\U2209"); /* Compose, EXCLAMATION MARK, LATIN SMALL LETTER I, LATIN SMALL LETTER N: NOT AN ELEMENT OF */
+			};
+			"\U007B" = {
+				"\U0028" = ("insertText:", "\U2284"); /* Compose, EXCLAMATION MARK, LEFT CURLY BRACKET, LEFT PARENTHESIS: NOT A SUBSET OF */
+			};
+			"\U00A7" = ("insertText:", "\UFE0E"); /* Compose, EXCLAMATION MARK, Compose: VARIATION SELECTOR-15 */
+		};
+		"\U0022" = {
+			"\U0020" = ("insertText:", "\U201D"); /* Compose, QUOTATION MARK, SPACE: RIGHT DOUBLE QUOTATION MARK */
+			"\U0022" = ("insertText:", "\U3003"); /* Compose, QUOTATION MARK, QUOTATION MARK: DITTO MARK */
+			"\U002E" = ("insertText:", "\U2235"); /* Compose, QUOTATION MARK, FULL STOP: BECAUSE */
+		};
+		"\U0023" = {
+			"\U0023" = ("insertText:", "\U266F"); /* Compose, NUMBER SIGN, NUMBER SIGN: MUSIC SHARP SIGN */
+			"\U0025" = ("insertText:", "\U266B"); /* Compose, NUMBER SIGN, PERCENT SIGN: BEAMED EIGHTH NOTES */
+			"\U003D" = ("insertText:", "\U266E"); /* Compose, NUMBER SIGN, EQUALS SIGN: MUSIC NATURAL SIGN */
+			"\U0043" = ("insertText:", "\U1D121"); /* Compose, NUMBER SIGN, LATIN CAPITAL LETTER C: MUSICAL SYMBOL C CLEF */
+			"\U0046" = ("insertText:", "\U1D122"); /* Compose, NUMBER SIGN, LATIN CAPITAL LETTER F: MUSICAL SYMBOL F CLEF */
+			"\U0047" = ("insertText:", "\U1D11E"); /* Compose, NUMBER SIGN, LATIN CAPITAL LETTER G: MUSICAL SYMBOL G CLEF */
+			"\U0062" = ("insertText:", "\U266D"); /* Compose, NUMBER SIGN, LATIN SMALL LETTER B: MUSIC FLAT SIGN */
+			"\U0066" = ("insertText:", "\U266E"); /* Compose, NUMBER SIGN, LATIN SMALL LETTER F: MUSIC NATURAL SIGN */
+			"\U006F" = {
+				"\U002F" = ("insertText:", "\U266A"); /* Compose, NUMBER SIGN, LATIN SMALL LETTER O, SOLIDUS: EIGHTH NOTE */
+				"\U006F" = ("insertText:", "\U266B"); /* Compose, NUMBER SIGN, LATIN SMALL LETTER O, LATIN SMALL LETTER O: BEAMED EIGHTH NOTES */
+			};
+		};
+		"\U0025" = {
+			"\U0025" = ("insertText:", "\U2031"); /* Compose, PERCENT SIGN, PERCENT SIGN: PER TEN THOUSAND SIGN */
+			"\U0030" = {
+				"\U0030" = {
+					"\U0044" = ("insertText:", "\U2187"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT ZERO, LATIN CAPITAL LETTER D: ROMAN NUMERAL FIFTY THOUSAND */
+					"\U004D" = ("insertText:", "\U2188"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT ZERO, LATIN CAPITAL LETTER M: ROMAN NUMERAL ONE HUNDRED THOUSAND */
+				};
+				"\U0031" = ("insertText:", "\U2160"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT ONE: ROMAN NUMERAL ONE */
+				"\U0032" = ("insertText:", "\U2161"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT TWO: ROMAN NUMERAL TWO */
+				"\U0033" = ("insertText:", "\U2162"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT THREE: ROMAN NUMERAL THREE */
+				"\U0034" = ("insertText:", "\U2163"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT FOUR: ROMAN NUMERAL FOUR */
+				"\U0035" = ("insertText:", "\U2164"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT FIVE: ROMAN NUMERAL FIVE */
+				"\U0036" = ("insertText:", "\U2165"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT SIX: ROMAN NUMERAL SIX */
+				"\U0037" = ("insertText:", "\U2166"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT SEVEN: ROMAN NUMERAL SEVEN */
+				"\U0038" = ("insertText:", "\U2167"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT EIGHT: ROMAN NUMERAL EIGHT */
+				"\U0039" = ("insertText:", "\U2168"); /* Compose, PERCENT SIGN, DIGIT ZERO, DIGIT NINE: ROMAN NUMERAL NINE */
+				"\U0043" = {
+					"\U0044" = ("insertText:", "\U2180"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN CAPITAL LETTER C, LATIN CAPITAL LETTER D: ROMAN NUMERAL ONE THOUSAND C D */
+				};
+				"\U0044" = ("insertText:", "\U2181"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN CAPITAL LETTER D: ROMAN NUMERAL FIVE THOUSAND */
+				"\U004D" = ("insertText:", "\U2182"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN CAPITAL LETTER M: ROMAN NUMERAL TEN THOUSAND */
+				"\U0063" = ("insertText:", "\U216D"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN SMALL LETTER C: ROMAN NUMERAL ONE HUNDRED */
+				"\U0064" = ("insertText:", "\U216E"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN SMALL LETTER D: ROMAN NUMERAL FIVE HUNDRED */
+				"\U006C" = ("insertText:", "\U216C"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN SMALL LETTER L: ROMAN NUMERAL FIFTY */
+				"\U006D" = ("insertText:", "\U216F"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN SMALL LETTER M: ROMAN NUMERAL ONE THOUSAND */
+				"\U0078" = ("insertText:", "\U2169"); /* Compose, PERCENT SIGN, DIGIT ZERO, LATIN SMALL LETTER X: ROMAN NUMERAL TEN */
+			};
+			"\U0031" = ("insertText:", "\U2170"); /* Compose, PERCENT SIGN, DIGIT ONE: SMALL ROMAN NUMERAL ONE */
+			"\U0032" = ("insertText:", "\U2171"); /* Compose, PERCENT SIGN, DIGIT TWO: SMALL ROMAN NUMERAL TWO */
+			"\U0033" = ("insertText:", "\U2172"); /* Compose, PERCENT SIGN, DIGIT THREE: SMALL ROMAN NUMERAL THREE */
+			"\U0034" = ("insertText:", "\U2173"); /* Compose, PERCENT SIGN, DIGIT FOUR: SMALL ROMAN NUMERAL FOUR */
+			"\U0035" = ("insertText:", "\U2174"); /* Compose, PERCENT SIGN, DIGIT FIVE: SMALL ROMAN NUMERAL FIVE */
+			"\U0036" = ("insertText:", "\U2175"); /* Compose, PERCENT SIGN, DIGIT SIX: SMALL ROMAN NUMERAL SIX */
+			"\U0037" = ("insertText:", "\U2176"); /* Compose, PERCENT SIGN, DIGIT SEVEN: SMALL ROMAN NUMERAL SEVEN */
+			"\U0038" = ("insertText:", "\U2177"); /* Compose, PERCENT SIGN, DIGIT EIGHT: SMALL ROMAN NUMERAL EIGHT */
+			"\U0039" = ("insertText:", "\U2178"); /* Compose, PERCENT SIGN, DIGIT NINE: SMALL ROMAN NUMERAL NINE */
+			"\U0043" = ("insertText:", "\U216D"); /* Compose, PERCENT SIGN, LATIN CAPITAL LETTER C: ROMAN NUMERAL ONE HUNDRED */
+			"\U0044" = ("insertText:", "\U216E"); /* Compose, PERCENT SIGN, LATIN CAPITAL LETTER D: ROMAN NUMERAL FIVE HUNDRED */
+			"\U004C" = ("insertText:", "\U216C"); /* Compose, PERCENT SIGN, LATIN CAPITAL LETTER L: ROMAN NUMERAL FIFTY */
+			"\U004D" = ("insertText:", "\U216F"); /* Compose, PERCENT SIGN, LATIN CAPITAL LETTER M: ROMAN NUMERAL ONE THOUSAND */
+			"\U0058" = ("insertText:", "\U2169"); /* Compose, PERCENT SIGN, LATIN CAPITAL LETTER X: ROMAN NUMERAL TEN */
+			"\U005F" = {
+				"\U0030" = {
+					"\U0031" = ("insertText:", "\U216A"); /* Compose, PERCENT SIGN, LOW LINE, DIGIT ZERO, DIGIT ONE: ROMAN NUMERAL ELEVEN */
+					"\U0032" = ("insertText:", "\U216B"); /* Compose, PERCENT SIGN, LOW LINE, DIGIT ZERO, DIGIT TWO: ROMAN NUMERAL TWELVE */
+				};
+				"\U0031" = ("insertText:", "\U217A"); /* Compose, PERCENT SIGN, LOW LINE, DIGIT ONE: SMALL ROMAN NUMERAL ELEVEN */
+				"\U0032" = ("insertText:", "\U217B"); /* Compose, PERCENT SIGN, LOW LINE, DIGIT TWO: SMALL ROMAN NUMERAL TWELVE */
+			};
+			"\U0063" = ("insertText:", "\U217D"); /* Compose, PERCENT SIGN, LATIN SMALL LETTER C: SMALL ROMAN NUMERAL ONE HUNDRED */
+			"\U0064" = ("insertText:", "\U217E"); /* Compose, PERCENT SIGN, LATIN SMALL LETTER D: SMALL ROMAN NUMERAL FIVE HUNDRED */
+			"\U006C" = ("insertText:", "\U217C"); /* Compose, PERCENT SIGN, LATIN SMALL LETTER L: SMALL ROMAN NUMERAL FIFTY */
+			"\U006D" = ("insertText:", "\U217F"); /* Compose, PERCENT SIGN, LATIN SMALL LETTER M: SMALL ROMAN NUMERAL ONE THOUSAND */
+			"\U0078" = ("insertText:", "\U2179"); /* Compose, PERCENT SIGN, LATIN SMALL LETTER X: SMALL ROMAN NUMERAL TEN */
+		};
+		"\U0026" = {
+			"\U0040" = ("insertText:", "\U214B"); /* Compose, AMPERSAND, COMMERCIAL AT: TURNED AMPERSAND */
+		};
+		"\U0027" = {
+			"\U0020" = ("insertText:", "\U2019"); /* Compose, APOSTROPHE, SPACE: RIGHT SINGLE QUOTATION MARK */
+			"\U0027" = ("insertText:", "\U201D"); /* Compose, APOSTROPHE, APOSTROPHE: RIGHT DOUBLE QUOTATION MARK */
+			"\U002D" = {
+				"\U0060" = ("insertText:", "\U269F"); /* Compose, APOSTROPHE, HYPHEN-MINUS, GRAVE ACCENT: THREE LINES CONVERGING LEFT */
+			};
+		};
+		"\U0028" = {
+			"\U0026" = {
+				"\U0029" = ("insertText:", "\U226C"); /* Compose, LEFT PARENTHESIS, AMPERSAND, RIGHT PARENTHESIS: BETWEEN */
+			};
+			"\U002A" = {
+				"\U0029" = ("insertText:", "\U229B"); /* Compose, LEFT PARENTHESIS, ASTERISK, RIGHT PARENTHESIS: CIRCLED ASTERISK OPERATOR */
+			};
+			"\U002B" = {
+				"\U0029" = ("insertText:", "\U2295"); /* Compose, LEFT PARENTHESIS, PLUS SIGN, RIGHT PARENTHESIS: CIRCLED PLUS */
+			};
+			"\U002D" = {
+				"\U0029" = ("insertText:", "\U2296"); /* Compose, LEFT PARENTHESIS, HYPHEN-MINUS, RIGHT PARENTHESIS: CIRCLED MINUS */
+			};
+			"\U002F" = {
+				"\U0029" = ("insertText:", "\U2298"); /* Compose, LEFT PARENTHESIS, SOLIDUS, RIGHT PARENTHESIS: CIRCLED DIVISION SLASH */
+			};
+			"\U0031" = {
+				"\U0030" = {
+					"\U003A" = {
+						"\U0030" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F559"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT ZERO, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TEN OCLOCK */
+							};
+						};
+						"\U0033" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F565"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT ZERO, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TEN-THIRTY */
+							};
+						};
+					};
+				};
+				"\U0031" = {
+					"\U003A" = {
+						"\U0030" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F55A"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT ONE, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE ELEVEN OCLOCK */
+							};
+						};
+						"\U0033" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F566"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT ONE, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE ELEVEN-THIRTY */
+							};
+						};
+					};
+				};
+				"\U0032" = {
+					"\U003A" = {
+						"\U0030" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F55B"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT TWO, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TWELVE OCLOCK */
+							};
+						};
+						"\U0033" = {
+							"\U0030" = {
+								"\U0029" = ("insertText:", "\U1F567"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, DIGIT TWO, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TWELVE-THIRTY */
+							};
+						};
+					};
+				};
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F550"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE ONE OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F55C"); /* Compose, LEFT PARENTHESIS, DIGIT ONE, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE ONE-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0032" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F551"); /* Compose, LEFT PARENTHESIS, DIGIT TWO, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TWO OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F55D"); /* Compose, LEFT PARENTHESIS, DIGIT TWO, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE TWO-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0033" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F552"); /* Compose, LEFT PARENTHESIS, DIGIT THREE, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE THREE OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F55E"); /* Compose, LEFT PARENTHESIS, DIGIT THREE, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE THREE-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0034" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F553"); /* Compose, LEFT PARENTHESIS, DIGIT FOUR, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE FOUR OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F55F"); /* Compose, LEFT PARENTHESIS, DIGIT FOUR, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE FOUR-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0035" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F554"); /* Compose, LEFT PARENTHESIS, DIGIT FIVE, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE FIVE OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F560"); /* Compose, LEFT PARENTHESIS, DIGIT FIVE, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE FIVE-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0036" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F555"); /* Compose, LEFT PARENTHESIS, DIGIT SIX, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE SIX OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F561"); /* Compose, LEFT PARENTHESIS, DIGIT SIX, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE SIX-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0037" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F556"); /* Compose, LEFT PARENTHESIS, DIGIT SEVEN, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE SEVEN OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F562"); /* Compose, LEFT PARENTHESIS, DIGIT SEVEN, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE SEVEN-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0038" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F557"); /* Compose, LEFT PARENTHESIS, DIGIT EIGHT, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE EIGHT OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F563"); /* Compose, LEFT PARENTHESIS, DIGIT EIGHT, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE EIGHT-THIRTY */
+						};
+					};
+				};
+			};
+			"\U0039" = {
+				"\U003A" = {
+					"\U0030" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F558"); /* Compose, LEFT PARENTHESIS, DIGIT NINE, COLON, DIGIT ZERO, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE NINE OCLOCK */
+						};
+					};
+					"\U0033" = {
+						"\U0030" = {
+							"\U0029" = ("insertText:", "\U1F564"); /* Compose, LEFT PARENTHESIS, DIGIT NINE, COLON, DIGIT THREE, DIGIT ZERO, RIGHT PARENTHESIS: CLOCK FACE NINE-THIRTY */
+						};
+					};
+				};
+			};
+			"\U003A" = ("insertText:", "\U263B"); /* Compose, LEFT PARENTHESIS, COLON: BLACK SMILING FACE */
+			"\U0078" = {
+				"\U0078" = {
+					"\U0029" = ("insertText:", "\U2297"); /* Compose, LEFT PARENTHESIS, LATIN SMALL LETTER X, LATIN SMALL LETTER X, RIGHT PARENTHESIS: CIRCLED TIMES */
+				};
+			};
+		};
+		"\U0029" = {
+			"\U005F" = ("insertText:", "\U27CC"); /* Compose, RIGHT PARENTHESIS, LOW LINE: LONG DIVISION */
+		};
+		"\U002A" = {
+			"\U0026" = ("insertText:", "\U03D7"); /* Compose, ASTERISK, AMPERSAND: GREEK KAI SYMBOL */
+			"\U0027" = ("insertText:", "\U02B9"); /* Compose, ASTERISK, APOSTROPHE: MODIFIER LETTER PRIME */
+			"\U0028" = ("insertText:", "\UFD3E"); /* Compose, ASTERISK, LEFT PARENTHESIS: ORNATE LEFT PARENTHESIS */
+			"\U0029" = ("insertText:", "\UFD3F"); /* Compose, ASTERISK, RIGHT PARENTHESIS: ORNATE RIGHT PARENTHESIS */
+			"\U002C" = ("insertText:", "\U0375"); /* Compose, ASTERISK, COMMA: GREEK LOWER NUMERAL SIGN */
+			"\U002E" = {
+				"\U0022" = ("insertText:", "\U2033"); /* Compose, ASTERISK, FULL STOP, QUOTATION MARK: DOUBLE PRIME */
+				"\U0027" = ("insertText:", "\U2032"); /* Compose, ASTERISK, FULL STOP, APOSTROPHE: PRIME */
+				"\U002E" = {
+					"\U002E" = ("insertText:", "\U0E5B"); /* Compose, ASTERISK, FULL STOP, FULL STOP, FULL STOP: THAI CHARACTER KHOMUT */
+					"\U005A" = ("insertText:", "\U0372"); /* Compose, ASTERISK, FULL STOP, FULL STOP, LATIN CAPITAL LETTER Z: GREEK CAPITAL LETTER ARCHAIC SAMPI */
+					"\U0064" = ("insertText:", "\U2202"); /* Compose, ASTERISK, FULL STOP, FULL STOP, LATIN SMALL LETTER D: PARTIAL DIFFERENTIAL */
+					"\U007A" = ("insertText:", "\U0373"); /* Compose, ASTERISK, FULL STOP, FULL STOP, LATIN SMALL LETTER Z: GREEK SMALL LETTER ARCHAIC SAMPI */
+				};
+				"\U003F" = ("insertText:", "\U037E"); /* Compose, ASTERISK, FULL STOP, QUESTION MARK: GREEK QUESTION MARK */
+				"\U0051" = ("insertText:", "\U03D8"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER Q: GREEK LETTER ARCHAIC KOPPA */
+				"\U0053" = ("insertText:", "\U03FA"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER S: GREEK CAPITAL LETTER SAN */
+				"\U0055" = ("insertText:", "\U03F4"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER U: GREEK CAPITAL THETA SYMBOL */
+				"\U0057" = ("insertText:", "\U03DC"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER W: GREEK LETTER DIGAMMA */
+				"\U0059" = ("insertText:", "\U03D2"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER Y: GREEK UPSILON WITH HOOK SYMBOL */
+				"\U005A" = ("insertText:", "\U03E0"); /* Compose, ASTERISK, FULL STOP, LATIN CAPITAL LETTER Z: GREEK LETTER SAMPI */
+				"\U0062" = ("insertText:", "\U03D0"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER B: GREEK BETA SYMBOL */
+				"\U0065" = ("insertText:", "\U03F5"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER E: GREEK LUNATE EPSILON SYMBOL */
+				"\U0066" = ("insertText:", "\U03D5"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER F: GREEK PHI SYMBOL */
+				"\U006B" = ("insertText:", "\U03F0"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER K: GREEK KAPPA SYMBOL */
+				"\U0070" = ("insertText:", "\U03D6"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER P: GREEK PI SYMBOL */
+				"\U0071" = ("insertText:", "\U03D9"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER Q: GREEK SMALL LETTER ARCHAIC KOPPA */
+				"\U0072" = ("insertText:", "\U03F1"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER R: GREEK RHO SYMBOL */
+				"\U0073" = ("insertText:", "\U03FB"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER S: GREEK SMALL LETTER SAN */
+				"\U0075" = ("insertText:", "\U03D1"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER U: GREEK THETA SYMBOL */
+				"\U0077" = ("insertText:", "\U03DD"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER W: GREEK SMALL LETTER DIGAMMA */
+				"\U007A" = ("insertText:", "\U03E1"); /* Compose, ASTERISK, FULL STOP, LATIN SMALL LETTER Z: GREEK SMALL LETTER SAMPI */
+			};
+			"\U002F" = ("insertText:", "\U03DB"); /* Compose, ASTERISK, SOLIDUS: GREEK SMALL LETTER STIGMA */
+			"\U0031" = ("insertText:", "\U2022"); /* Compose, ASTERISK, DIGIT ONE: BULLET */
+			"\U003F" = ("insertText:", "\U03DA"); /* Compose, ASTERISK, QUESTION MARK: GREEK LETTER STIGMA */
+			"\U0041" = ("insertText:", "\U0391"); /* Compose, ASTERISK, LATIN CAPITAL LETTER A: GREEK CAPITAL LETTER ALPHA */
+			"\U0042" = ("insertText:", "\U0392"); /* Compose, ASTERISK, LATIN CAPITAL LETTER B: GREEK CAPITAL LETTER BETA */
+			"\U0043" = ("insertText:", "\U03A8"); /* Compose, ASTERISK, LATIN CAPITAL LETTER C: GREEK CAPITAL LETTER PSI */
+			"\U0044" = ("insertText:", "\U0394"); /* Compose, ASTERISK, LATIN CAPITAL LETTER D: GREEK CAPITAL LETTER DELTA */
+			"\U0045" = ("insertText:", "\U0395"); /* Compose, ASTERISK, LATIN CAPITAL LETTER E: GREEK CAPITAL LETTER EPSILON */
+			"\U0046" = ("insertText:", "\U03A6"); /* Compose, ASTERISK, LATIN CAPITAL LETTER F: GREEK CAPITAL LETTER PHI */
+			"\U0047" = ("insertText:", "\U0393"); /* Compose, ASTERISK, LATIN CAPITAL LETTER G: GREEK CAPITAL LETTER GAMMA */
+			"\U0048" = ("insertText:", "\U0397"); /* Compose, ASTERISK, LATIN CAPITAL LETTER H: GREEK CAPITAL LETTER ETA */
+			"\U0049" = ("insertText:", "\U0399"); /* Compose, ASTERISK, LATIN CAPITAL LETTER I: GREEK CAPITAL LETTER IOTA */
+			"\U004A" = ("insertText:", "\U039E"); /* Compose, ASTERISK, LATIN CAPITAL LETTER J: GREEK CAPITAL LETTER XI */
+			"\U004B" = ("insertText:", "\U039A"); /* Compose, ASTERISK, LATIN CAPITAL LETTER K: GREEK CAPITAL LETTER KAPPA */
+			"\U004C" = ("insertText:", "\U039B"); /* Compose, ASTERISK, LATIN CAPITAL LETTER L: GREEK CAPITAL LETTER LAMDA */
+			"\U004D" = ("insertText:", "\U039C"); /* Compose, ASTERISK, LATIN CAPITAL LETTER M: GREEK CAPITAL LETTER MU */
+			"\U004E" = ("insertText:", "\U039D"); /* Compose, ASTERISK, LATIN CAPITAL LETTER N: GREEK CAPITAL LETTER NU */
+			"\U004F" = ("insertText:", "\U039F"); /* Compose, ASTERISK, LATIN CAPITAL LETTER O: GREEK CAPITAL LETTER OMICRON */
+			"\U0050" = ("insertText:", "\U03A0"); /* Compose, ASTERISK, LATIN CAPITAL LETTER P: GREEK CAPITAL LETTER PI */
+			"\U0051" = ("insertText:", "\U03DE"); /* Compose, ASTERISK, LATIN CAPITAL LETTER Q: GREEK LETTER KOPPA */
+			"\U0052" = ("insertText:", "\U03A1"); /* Compose, ASTERISK, LATIN CAPITAL LETTER R: GREEK CAPITAL LETTER RHO */
+			"\U0053" = ("insertText:", "\U03A3"); /* Compose, ASTERISK, LATIN CAPITAL LETTER S: GREEK CAPITAL LETTER SIGMA */
+			"\U0054" = ("insertText:", "\U03A4"); /* Compose, ASTERISK, LATIN CAPITAL LETTER T: GREEK CAPITAL LETTER TAU */
+			"\U0055" = ("insertText:", "\U0398"); /* Compose, ASTERISK, LATIN CAPITAL LETTER U: GREEK CAPITAL LETTER THETA */
+			"\U0056" = ("insertText:", "\U03A9"); /* Compose, ASTERISK, LATIN CAPITAL LETTER V: GREEK CAPITAL LETTER OMEGA */
+			"\U0058" = ("insertText:", "\U03A7"); /* Compose, ASTERISK, LATIN CAPITAL LETTER X: GREEK CAPITAL LETTER CHI */
+			"\U0059" = ("insertText:", "\U03A5"); /* Compose, ASTERISK, LATIN CAPITAL LETTER Y: GREEK CAPITAL LETTER UPSILON */
+			"\U005A" = ("insertText:", "\U0396"); /* Compose, ASTERISK, LATIN CAPITAL LETTER Z: GREEK CAPITAL LETTER ZETA */
+			"\U0061" = ("insertText:", "\U03B1"); /* Compose, ASTERISK, LATIN SMALL LETTER A: GREEK SMALL LETTER ALPHA */
+			"\U0062" = ("insertText:", "\U03B2"); /* Compose, ASTERISK, LATIN SMALL LETTER B: GREEK SMALL LETTER BETA */
+			"\U0063" = ("insertText:", "\U03C8"); /* Compose, ASTERISK, LATIN SMALL LETTER C: GREEK SMALL LETTER PSI */
+			"\U0064" = ("insertText:", "\U03B4"); /* Compose, ASTERISK, LATIN SMALL LETTER D: GREEK SMALL LETTER DELTA */
+			"\U0065" = ("insertText:", "\U03B5"); /* Compose, ASTERISK, LATIN SMALL LETTER E: GREEK SMALL LETTER EPSILON */
+			"\U0066" = ("insertText:", "\U03C6"); /* Compose, ASTERISK, LATIN SMALL LETTER F: GREEK SMALL LETTER PHI */
+			"\U0067" = ("insertText:", "\U03B3"); /* Compose, ASTERISK, LATIN SMALL LETTER G: GREEK SMALL LETTER GAMMA */
+			"\U0068" = ("insertText:", "\U03B7"); /* Compose, ASTERISK, LATIN SMALL LETTER H: GREEK SMALL LETTER ETA */
+			"\U0069" = ("insertText:", "\U03B9"); /* Compose, ASTERISK, LATIN SMALL LETTER I: GREEK SMALL LETTER IOTA */
+			"\U006A" = ("insertText:", "\U03BE"); /* Compose, ASTERISK, LATIN SMALL LETTER J: GREEK SMALL LETTER XI */
+			"\U006B" = ("insertText:", "\U03BA"); /* Compose, ASTERISK, LATIN SMALL LETTER K: GREEK SMALL LETTER KAPPA */
+			"\U006C" = ("insertText:", "\U03BB"); /* Compose, ASTERISK, LATIN SMALL LETTER L: GREEK SMALL LETTER LAMDA */
+			"\U006D" = ("insertText:", "\U03BC"); /* Compose, ASTERISK, LATIN SMALL LETTER M: GREEK SMALL LETTER MU */
+			"\U006E" = ("insertText:", "\U03BD"); /* Compose, ASTERISK, LATIN SMALL LETTER N: GREEK SMALL LETTER NU */
+			"\U006F" = ("insertText:", "\U03BF"); /* Compose, ASTERISK, LATIN SMALL LETTER O: GREEK SMALL LETTER OMICRON */
+			"\U0070" = ("insertText:", "\U03C0"); /* Compose, ASTERISK, LATIN SMALL LETTER P: GREEK SMALL LETTER PI */
+			"\U0071" = ("insertText:", "\U03DF"); /* Compose, ASTERISK, LATIN SMALL LETTER Q: GREEK SMALL LETTER KOPPA */
+			"\U0072" = ("insertText:", "\U03C1"); /* Compose, ASTERISK, LATIN SMALL LETTER R: GREEK SMALL LETTER RHO */
+			"\U0073" = ("insertText:", "\U03C3"); /* Compose, ASTERISK, LATIN SMALL LETTER S: GREEK SMALL LETTER SIGMA */
+			"\U0074" = ("insertText:", "\U03C4"); /* Compose, ASTERISK, LATIN SMALL LETTER T: GREEK SMALL LETTER TAU */
+			"\U0075" = ("insertText:", "\U03B8"); /* Compose, ASTERISK, LATIN SMALL LETTER U: GREEK SMALL LETTER THETA */
+			"\U0076" = ("insertText:", "\U03C9"); /* Compose, ASTERISK, LATIN SMALL LETTER V: GREEK SMALL LETTER OMEGA */
+			"\U0077" = ("insertText:", "\U03C2"); /* Compose, ASTERISK, LATIN SMALL LETTER W: GREEK SMALL LETTER FINAL SIGMA */
+			"\U0078" = ("insertText:", "\U03C7"); /* Compose, ASTERISK, LATIN SMALL LETTER X: GREEK SMALL LETTER CHI */
+			"\U0079" = ("insertText:", "\U03C5"); /* Compose, ASTERISK, LATIN SMALL LETTER Y: GREEK SMALL LETTER UPSILON */
+			"\U007A" = ("insertText:", "\U03B6"); /* Compose, ASTERISK, LATIN SMALL LETTER Z: GREEK SMALL LETTER ZETA */
+		};
+		"\U002B" = {
+			"\U002B" = {
+				"\U003C" = ("insertText:", "\U22D8"); /* Compose, PLUS SIGN, PLUS SIGN, LESS-THAN SIGN: VERY MUCH LESS-THAN */
+				"\U003E" = ("insertText:", "\U22D9"); /* Compose, PLUS SIGN, PLUS SIGN, GREATER-THAN SIGN: VERY MUCH GREATER-THAN */
+			};
+			"\U003C" = ("insertText:", "\U226A"); /* Compose, PLUS SIGN, LESS-THAN SIGN: MUCH LESS-THAN */
+			"\U003E" = ("insertText:", "\U226B"); /* Compose, PLUS SIGN, GREATER-THAN SIGN: MUCH GREATER-THAN */
+		};
+		"\U002C" = {
+			"\U0020" = ("insertText:", "\U201A"); /* Compose, COMMA, SPACE: SINGLE LOW-9 QUOTATION MARK */
+			"\U0022" = ("insertText:", "\U201E"); /* Compose, COMMA, QUOTATION MARK: DOUBLE LOW-9 QUOTATION MARK */
+			"\U0027" = ("insertText:", "\U201A"); /* Compose, COMMA, APOSTROPHE: SINGLE LOW-9 QUOTATION MARK */
+			"\U002C" = ("insertText:", "\U201E"); /* Compose, COMMA, COMMA: DOUBLE LOW-9 QUOTATION MARK */
+			"\U003C" = ("insertText:", "\U2E41"); /* Compose, COMMA, LESS-THAN SIGN:  */
+			"\U0040" = ("insertText:", "\U2E32"); /* Compose, COMMA, COMMERCIAL AT: TURNED COMMA */
+			"\U005E" = ("insertText:", "\U2E34"); /* Compose, COMMA, CIRCUMFLEX ACCENT: RAISED COMMA */
+		};
+		"\U002D" = {
+			"\U002B" = ("insertText:", "\U2213"); /* Compose, HYPHEN-MINUS, PLUS SIGN: MINUS-OR-PLUS SIGN */
+			"\U002C" = ("insertText:", "\U00AC"); /* Compose, HYPHEN-MINUS, COMMA: NOT SIGN */
+			"\U002D" = {
+				"\U0020" = ("insertText:", "\U2013"); /* Compose, HYPHEN-MINUS, HYPHEN-MINUS, SPACE: EN DASH */
+			};
+			"\U0032" = {
+				"\U004D" = ("insertText:", "\U2E3A"); /* Compose, HYPHEN-MINUS, DIGIT TWO, LATIN CAPITAL LETTER M: TWO-EM DASH */
+			};
+			"\U0033" = {
+				"\U004D" = ("insertText:", "\U2E3B"); /* Compose, HYPHEN-MINUS, DIGIT THREE, LATIN CAPITAL LETTER M: THREE-EM DASH */
+			};
+			"\U003C" = ("insertText:", "\U2190"); /* Compose, HYPHEN-MINUS, LESS-THAN SIGN: LEFTWARDS ARROW */
+			"\U003D" = ("insertText:", "\U2E40"); /* Compose, HYPHEN-MINUS, EQUALS SIGN:  */
+			"\U003E" = ("insertText:", "\U2192"); /* Compose, HYPHEN-MINUS, GREATER-THAN SIGN: RIGHTWARDS ARROW */
+			"\U0042" = ("insertText:", "\U0243"); /* Compose, HYPHEN-MINUS, LATIN CAPITAL LETTER B: LATIN CAPITAL LETTER B WITH STROKE */
+			"\U005E" = ("insertText:", "\U2191"); /* Compose, HYPHEN-MINUS, CIRCUMFLEX ACCENT: UPWARDS ARROW */
+			"\U0061" = ("insertText:", "\U00AA"); /* Compose, HYPHEN-MINUS, LATIN SMALL LETTER A: FEMININE ORDINAL INDICATOR */
+			"\U0062" = ("insertText:", "\U0180"); /* Compose, HYPHEN-MINUS, LATIN SMALL LETTER B: LATIN SMALL LETTER B WITH STROKE */
+			"\U006F" = ("insertText:", "\U00BA"); /* Compose, HYPHEN-MINUS, LATIN SMALL LETTER O: MASCULINE ORDINAL INDICATOR */
+			"\U0076" = ("insertText:", "\U2193"); /* Compose, HYPHEN-MINUS, LATIN SMALL LETTER V: DOWNWARDS ARROW */
+			"\U007E" = {
+				"\U002D" = ("insertText:", "\U2015"); /* Compose, HYPHEN-MINUS, TILDE, HYPHEN-MINUS: HORIZONTAL BAR */
+			};
+		};
+		"\U002E" = {
+			"\U0022" = ("insertText:", "\U2234"); /* Compose, FULL STOP, QUOTATION MARK: THEREFORE */
+			"\U0029" = ("insertText:", "\U0352"); /* Compose, FULL STOP, RIGHT PARENTHESIS: COMBINING FERMATA */
+			"\U002E" = ("insertText:", "\U2026"); /* Compose, FULL STOP, FULL STOP: HORIZONTAL ELLIPSIS */
+			"\U002F" = {
+				"\U002E" = ("insertText:", "\U2052"); /* Compose, FULL STOP, SOLIDUS, FULL STOP: COMMERCIAL MINUS SIGN */
+			};
+			"\U005C" = {
+				"\U002E" = ("insertText:", "\U22F1"); /* Compose, FULL STOP, REVERSE SOLIDUS, FULL STOP: DOWN RIGHT DIAGONAL ELLIPSIS */
+			};
+			"\U005E" = ("insertText:", "\U2E33"); /* Compose, FULL STOP, CIRCUMFLEX ACCENT: RAISED DOT */
+			"\U007E" = ("insertText:", "\U2E33"); /* Compose, FULL STOP, TILDE: RAISED DOT */
+		};
+		"\U002F" = {
+			"\U0021" = {
+				"\U005C" = ("insertText:", "\U26A0"); /* Compose, SOLIDUS, EXCLAMATION MARK, REVERSE SOLIDUS: WARNING SIGN */
+			};
+			"\U0026" = {
+				"\U004C" = ("insertText:", "\UA746"); /* Compose, SOLIDUS, AMPERSAND, LATIN CAPITAL LETTER L: LATIN CAPITAL LETTER BROKEN L */
+				"\U006C" = ("insertText:", "\UA747"); /* Compose, SOLIDUS, AMPERSAND, LATIN SMALL LETTER L: LATIN SMALL LETTER BROKEN L */
+			};
+			"\U002D" = {
+				"\U003E" = ("insertText:", "\U21AA"); /* Compose, SOLIDUS, HYPHEN-MINUS, GREATER-THAN SIGN: RIGHTWARDS ARROW WITH HOOK */
+			};
+			"\U002E" = {
+				"\U002E" = ("insertText:", "\U22F0"); /* Compose, SOLIDUS, FULL STOP, FULL STOP: UP RIGHT DIAGONAL ELLIPSIS */
+			};
+			"\U002F" = ("insertText:", "\U2044"); /* Compose, SOLIDUS, SOLIDUS: FRACTION SLASH */
+			"\U0030" = ("insertText:", "\U2205"); /* Compose, SOLIDUS, DIGIT ZERO: EMPTY SET */
+			"\U003D" = ("insertText:", "\U2260"); /* Compose, SOLIDUS, EQUALS SIGN: NOT EQUAL TO */
+			"\U0045" = {
+				"\U0045" = ("insertText:", "\U2204"); /* Compose, SOLIDUS, LATIN CAPITAL LETTER E, LATIN CAPITAL LETTER E: THERE DOES NOT EXIST */
+			};
+			"\U005C" = ("insertText:", "\U2227"); /* Compose, SOLIDUS, REVERSE SOLIDUS: LOGICAL AND */
+			"\U006E" = {
+				"\U0069" = ("insertText:", "\U220C"); /* Compose, SOLIDUS, LATIN SMALL LETTER N, LATIN SMALL LETTER I: DOES NOT CONTAIN AS MEMBER */
+			};
+			"\U0075" = ("insertText:", "\U00B5"); /* Compose, SOLIDUS, LATIN SMALL LETTER U: MICRO SIGN */
+			"\U007B" = {
+				"\U0028" = ("insertText:", "\U2284"); /* Compose, SOLIDUS, LEFT CURLY BRACKET, LEFT PARENTHESIS: NOT A SUBSET OF */
+			};
+		};
+		"\U0030" = {
+			"\U002F" = ("insertText:", "\U2205"); /* Compose, DIGIT ZERO, SOLIDUS: EMPTY SET */
+			"\U0033" = ("insertText:", "\U2189"); /* Compose, DIGIT ZERO, DIGIT THREE: VULGAR FRACTION ZERO THIRDS */
+		};
+		"\U0031" = {
+			"\U002F" = ("insertText:", "\U215F"); /* Compose, DIGIT ONE, SOLIDUS: FRACTION NUMERATOR ONE */
+			"\U0033" = ("insertText:", "\U2153"); /* Compose, DIGIT ONE, DIGIT THREE: VULGAR FRACTION ONE THIRD */
+			"\U0035" = ("insertText:", "\U2155"); /* Compose, DIGIT ONE, DIGIT FIVE: VULGAR FRACTION ONE FIFTH */
+			"\U0036" = ("insertText:", "\U2159"); /* Compose, DIGIT ONE, DIGIT SIX: VULGAR FRACTION ONE SIXTH */
+			"\U0037" = ("insertText:", "\U2150"); /* Compose, DIGIT ONE, DIGIT SEVEN: VULGAR FRACTION ONE SEVENTH */
+			"\U0038" = ("insertText:", "\U215B"); /* Compose, DIGIT ONE, DIGIT EIGHT: VULGAR FRACTION ONE EIGHTH */
+			"\U0039" = ("insertText:", "\U2151"); /* Compose, DIGIT ONE, DIGIT NINE: VULGAR FRACTION ONE NINTH */
+			"\U0078" = ("insertText:", "\U2152"); /* Compose, DIGIT ONE, LATIN SMALL LETTER X: VULGAR FRACTION ONE TENTH */
+		};
+		"\U0032" = {
+			"\U0021" = ("insertText:", "\U203C"); /* Compose, DIGIT TWO, EXCLAMATION MARK: DOUBLE EXCLAMATION MARK */
+			"\U002E" = ("insertText:", "\U2025"); /* Compose, DIGIT TWO, FULL STOP: TWO DOT LEADER */
+			"\U0033" = ("insertText:", "\U2154"); /* Compose, DIGIT TWO, DIGIT THREE: VULGAR FRACTION TWO THIRDS */
+			"\U0035" = ("insertText:", "\U2156"); /* Compose, DIGIT TWO, DIGIT FIVE: VULGAR FRACTION TWO FIFTHS */
+			"\U003A" = ("insertText:", "\U2237"); /* Compose, DIGIT TWO, COLON: PROPORTION */
+			"\U003F" = ("insertText:", "\U2047"); /* Compose, DIGIT TWO, QUESTION MARK: DOUBLE QUESTION MARK */
+			"\U0041" = ("insertText:", "\UA732"); /* Compose, DIGIT TWO, LATIN CAPITAL LETTER A: LATIN CAPITAL LETTER AA */
+			"\U004F" = ("insertText:", "\UA74E"); /* Compose, DIGIT TWO, LATIN CAPITAL LETTER O: LATIN CAPITAL LETTER OO */
+			"\U0061" = ("insertText:", "\UA733"); /* Compose, DIGIT TWO, LATIN SMALL LETTER A: LATIN SMALL LETTER AA */
+			"\U006F" = ("insertText:", "\UA74F"); /* Compose, DIGIT TWO, LATIN SMALL LETTER O: LATIN SMALL LETTER OO */
+		};
+		"\U0033" = {
+			"\U002D" = ("insertText:", "\U2660"); /* Compose, DIGIT THREE, HYPHEN-MINUS: BLACK SPADE SUIT */
+			"\U0033" = ("insertText:", "\U2663"); /* Compose, DIGIT THREE, DIGIT THREE: BLACK CLUB SUIT */
+			"\U0035" = ("insertText:", "\U2157"); /* Compose, DIGIT THREE, DIGIT FIVE: VULGAR FRACTION THREE FIFTHS */
+			"\U0038" = ("insertText:", "\U215C"); /* Compose, DIGIT THREE, DIGIT EIGHT: VULGAR FRACTION THREE EIGHTHS */
+			"\U003C" = ("insertText:", "\U22D8"); /* Compose, DIGIT THREE, LESS-THAN SIGN: VERY MUCH LESS-THAN */
+			"\U003E" = ("insertText:", "\U22D9"); /* Compose, DIGIT THREE, GREATER-THAN SIGN: VERY MUCH GREATER-THAN */
+			"\U0073" = {
+				"\U0071" = ("insertText:", "\U221B"); /* Compose, DIGIT THREE, LATIN SMALL LETTER S, LATIN SMALL LETTER Q: CUBE ROOT */
+			};
+		};
+		"\U0034" = {
+			"\U0035" = ("insertText:", "\U2158"); /* Compose, DIGIT FOUR, DIGIT FIVE: VULGAR FRACTION FOUR FIFTHS */
+			"\U0073" = {
+				"\U0071" = ("insertText:", "\U221C"); /* Compose, DIGIT FOUR, LATIN SMALL LETTER S, LATIN SMALL LETTER Q: FOURTH ROOT */
+			};
+		};
+		"\U0035" = {
+			"\U0036" = ("insertText:", "\U215A"); /* Compose, DIGIT FIVE, DIGIT SIX: VULGAR FRACTION FIVE SIXTHS */
+			"\U0038" = ("insertText:", "\U215D"); /* Compose, DIGIT FIVE, DIGIT EIGHT: VULGAR FRACTION FIVE EIGHTHS */
+		};
+		"\U0036" = {
+			"\U0022" = ("insertText:", "\U201C"); /* Compose, DIGIT SIX, QUOTATION MARK: LEFT DOUBLE QUOTATION MARK */
+			"\U0027" = ("insertText:", "\U2018"); /* Compose, DIGIT SIX, APOSTROPHE: LEFT SINGLE QUOTATION MARK */
+		};
+		"\U0037" = {
+			"\U0022" = ("insertText:", "\U300E"); /* Compose, DIGIT SEVEN, QUOTATION MARK: LEFT WHITE CORNER BRACKET */
+			"\U0027" = ("insertText:", "\UFF62"); /* Compose, DIGIT SEVEN, APOSTROPHE: HALFWIDTH LEFT CORNER BRACKET */
+			"\U0038" = ("insertText:", "\U215E"); /* Compose, DIGIT SEVEN, DIGIT EIGHT: VULGAR FRACTION SEVEN EIGHTHS */
+			"\U005B" = ("insertText:", "\U2308"); /* Compose, DIGIT SEVEN, LEFT SQUARE BRACKET: LEFT CEILING */
+			"\U005D" = ("insertText:", "\U2309"); /* Compose, DIGIT SEVEN, RIGHT SQUARE BRACKET: RIGHT CEILING */
+			"\U005E" = {
+				"\U005B" = ("insertText:", "\U2E22"); /* Compose, DIGIT SEVEN, CIRCUMFLEX ACCENT, LEFT SQUARE BRACKET: TOP LEFT HALF BRACKET */
+				"\U005D" = ("insertText:", "\U2E23"); /* Compose, DIGIT SEVEN, CIRCUMFLEX ACCENT, RIGHT SQUARE BRACKET: TOP RIGHT HALF BRACKET */
+			};
+		};
+		"\U0038" = {
+			"\U0038" = ("insertText:", "\U221E"); /* Compose, DIGIT EIGHT, DIGIT EIGHT: INFINITY */
+		};
+		"\U0039" = {
+			"\U0022" = ("insertText:", "\U201D"); /* Compose, DIGIT NINE, QUOTATION MARK: RIGHT DOUBLE QUOTATION MARK */
+			"\U0027" = ("insertText:", "\U2019"); /* Compose, DIGIT NINE, APOSTROPHE: RIGHT SINGLE QUOTATION MARK */
+		};
+		"\U003A" = {
+			"\U0028" = ("insertText:", "\U2639"); /* Compose, COLON, LEFT PARENTHESIS: WHITE FROWNING FACE */
+			"\U0029" = ("insertText:", "\U263A"); /* Compose, COLON, RIGHT PARENTHESIS: WHITE SMILING FACE */
+			"\U002B" = ("insertText:", "\U02D0"); /* Compose, COLON, PLUS SIGN: MODIFIER LETTER TRIANGULAR COLON */
+			"\U003D" = ("insertText:", "\U2254"); /* Compose, COLON, EQUALS SIGN: COLON EQUALS */
+			"\U006F" = {
+				"\U006F" = {
+					"\U0029" = ("insertText:", "\U00B0"); /* Compose, COLON, LATIN SMALL LETTER O, LATIN SMALL LETTER O, RIGHT PARENTHESIS: DEGREE SIGN */
+				};
+			};
+			"\U007C" = ("insertText:", "\U2E1A"); /* Compose, COLON, VERTICAL LINE: HYPHEN WITH DIAERESIS */
+			"\U007E" = ("insertText:", "\U2368"); /* Compose, COLON, TILDE: APL FUNCTIONAL SYMBOL TILDE DIAERESIS */
+		};
+		"\U003B" = {
+			"\U003C" = ("insertText:", "\U204F"); /* Compose, SEMICOLON, LESS-THAN SIGN: REVERSED SEMICOLON */
+			"\U0040" = ("insertText:", "\U2E35"); /* Compose, SEMICOLON, COMMERCIAL AT: TURNED SEMICOLON */
+			"\UFF08" = ("insertText:", "\U204F"); /* Compose, SEMICOLON, FULLWIDTH LEFT PARENTHESIS: REVERSED SEMICOLON */
+		};
+		"\U003C" = {
+			"\U0028" = ("insertText:", "\U27E8"); /* Compose, LESS-THAN SIGN, LEFT PARENTHESIS: MATHEMATICAL LEFT ANGLE BRACKET */
+			"\U002C" = {
+				"\U002C" = ("insertText:", "\U2E42"); /* Compose, LESS-THAN SIGN, COMMA, COMMA:  */
+			};
+			"\U002D" = {
+				"\U002F" = ("insertText:", "\U21A9"); /* Compose, LESS-THAN SIGN, HYPHEN-MINUS, SOLIDUS: LEFTWARDS ARROW WITH HOOK */
+				"\U003D" = {
+					"\U003E" = ("insertText:", "\U21D4"); /* Compose, LESS-THAN SIGN, HYPHEN-MINUS, EQUALS SIGN, GREATER-THAN SIGN: LEFT RIGHT DOUBLE ARROW */
+				};
+				"\U003E" = ("insertText:", "\U2194"); /* Compose, LESS-THAN SIGN, HYPHEN-MINUS, GREATER-THAN SIGN: LEFT RIGHT ARROW */
+			};
+			"\U0033" = ("insertText:", "\U2665"); /* Compose, LESS-THAN SIGN, DIGIT THREE: BLACK HEART SUIT */
+			"\U0039" = {
+				"\U0022" = ("insertText:", "\U201F"); /* Compose, LESS-THAN SIGN, DIGIT NINE, QUOTATION MARK: DOUBLE HIGH-REVERSED-9 QUOTATION MARK */
+				"\U0027" = ("insertText:", "\U201B"); /* Compose, LESS-THAN SIGN, DIGIT NINE, APOSTROPHE: SINGLE HIGH-REVERSED-9 QUOTATION MARK */
+			};
+			"\U003D" = ("insertText:", "\U2264"); /* Compose, LESS-THAN SIGN, EQUALS SIGN: LESS-THAN OR EQUAL TO */
+			"\U003E" = ("insertText:", "\U2662"); /* Compose, LESS-THAN SIGN, GREATER-THAN SIGN: WHITE DIAMOND SUIT */
+			"\U0058" = {
+				"\U003E" = ("insertText:", "\U2756"); /* Compose, LESS-THAN SIGN, LATIN CAPITAL LETTER X, GREATER-THAN SIGN: BLACK DIAMOND MINUS WHITE X */
+			};
+			"\U0065" = {
+				"\U0068" = ("insertText:", "\U025C"); /* Compose, LESS-THAN SIGN, LATIN SMALL LETTER E, LATIN SMALL LETTER H: LATIN SMALL LETTER REVERSED OPEN E */
+				"\U0072" = ("insertText:", "\U025D"); /* Compose, LESS-THAN SIGN, LATIN SMALL LETTER E, LATIN SMALL LETTER R: LATIN SMALL LETTER REVERSED OPEN E WITH HOOK */
+			};
+			"\U007C" = ("insertText:", "\U21B5"); /* Compose, LESS-THAN SIGN, VERTICAL LINE: DOWNWARDS ARROW WITH CORNER LEFTWARDS */
+			"\U007D" = ("insertText:", "\U2660"); /* Compose, LESS-THAN SIGN, RIGHT CURLY BRACKET: BLACK SPADE SUIT */
+			"\U007E" = {
+				"\U003E" = ("insertText:", "\U21AD"); /* Compose, LESS-THAN SIGN, TILDE, GREATER-THAN SIGN: LEFT RIGHT WAVE ARROW */
+			};
+		};
+		"\U003D" = {
+			"\U002E" = {
+				"\U003D" = ("insertText:", "\U2E0E"); /* Compose, EQUALS SIGN, FULL STOP, EQUALS SIGN: EDITORIAL CORONIS */
+			};
+			"\U003A" = ("insertText:", "\U2255"); /* Compose, EQUALS SIGN, COLON: EQUALS COLON */
+			"\U003C" = ("insertText:", "\U21D0"); /* Compose, EQUALS SIGN, LESS-THAN SIGN: LEFTWARDS DOUBLE ARROW */
+			"\U003D" = ("insertText:", "\U2261"); /* Compose, EQUALS SIGN, EQUALS SIGN: IDENTICAL TO */
+			"\U003E" = ("insertText:", "\U21D2"); /* Compose, EQUALS SIGN, GREATER-THAN SIGN: RIGHTWARDS DOUBLE ARROW */
+			"\U003F" = ("insertText:", "\U225F"); /* Compose, EQUALS SIGN, QUESTION MARK: QUESTIONED EQUAL TO */
+			"\U0064" = {
+				"\U0065" = {
+					"\U0066" = ("insertText:", "\U225D"); /* Compose, EQUALS SIGN, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER F: EQUAL TO BY DEFINITION */
+				};
+			};
+			"\U007C" = {
+				"\U003D" = ("insertText:", "\U2262"); /* Compose, EQUALS SIGN, VERTICAL LINE, EQUALS SIGN: NOT IDENTICAL TO */
+			};
+			"\UFF51" = {
+				"\UFF51" = ("insertText:", "\U21D0"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER Q, FULLWIDTH LATIN SMALL LETTER Q: LEFTWARDS DOUBLE ARROW */
+				"\UFF53" = ("insertText:", "\U21D4"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER Q, FULLWIDTH LATIN SMALL LETTER S: LEFT RIGHT DOUBLE ARROW */
+			};
+			"\UFF52" = {
+				"\UFF52" = ("insertText:", "\U21D1"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER R, FULLWIDTH LATIN SMALL LETTER R: UPWARDS DOUBLE ARROW */
+				"\UFF54" = ("insertText:", "\U21D5"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER R, FULLWIDTH LATIN SMALL LETTER T: UP DOWN DOUBLE ARROW */
+			};
+			"\UFF53" = {
+				"\UFF51" = ("insertText:", "\U21D4"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER S, FULLWIDTH LATIN SMALL LETTER Q: LEFT RIGHT DOUBLE ARROW */
+				"\UFF53" = ("insertText:", "\U21D2"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER S, FULLWIDTH LATIN SMALL LETTER S: RIGHTWARDS DOUBLE ARROW */
+			};
+			"\UFF54" = {
+				"\UFF51" = ("insertText:", "\U23CE"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER T, FULLWIDTH LATIN SMALL LETTER Q: RETURN SYMBOL */
+				"\UFF54" = ("insertText:", "\U21D3"); /* Compose, EQUALS SIGN, FULLWIDTH LATIN SMALL LETTER T, FULLWIDTH LATIN SMALL LETTER T: DOWNWARDS DOUBLE ARROW */
+			};
+		};
+		"\U003E" = {
+			"\U003D" = ("insertText:", "\U2265"); /* Compose, GREATER-THAN SIGN, EQUALS SIGN: GREATER-THAN OR EQUAL TO */
+		};
+		"\U003F" = {
+			"\U0021" = ("insertText:", "\U2E18"); /* Compose, QUESTION MARK, EXCLAMATION MARK: INVERTED INTERROBANG */
+			"\U0026" = {
+				"\U0021" = ("insertText:", "\U2048"); /* Compose, QUESTION MARK, AMPERSAND, EXCLAMATION MARK: QUESTION EXCLAMATION MARK */
+				"\U003F" = ("insertText:", "\U2047"); /* Compose, QUESTION MARK, AMPERSAND, QUESTION MARK: DOUBLE QUESTION MARK */
+			};
+			"\U0028" = ("insertText:", "\U0295"); /* Compose, QUESTION MARK, LEFT PARENTHESIS: LATIN LETTER PHARYNGEAL VOICED FRICATIVE */
+			"\U002D" = ("insertText:", "\U02A1"); /* Compose, QUESTION MARK, HYPHEN-MINUS: LATIN LETTER GLOTTAL STOP WITH STROKE */
+			"\U002E" = ("insertText:", "\U0294"); /* Compose, QUESTION MARK, FULL STOP: LATIN LETTER GLOTTAL STOP */
+			"\U003C" = ("insertText:", "\U2E2E"); /* Compose, QUESTION MARK, LESS-THAN SIGN: REVERSED QUESTION MARK */
+			"\U0076" = ("insertText:", "\U0296"); /* Compose, QUESTION MARK, LATIN SMALL LETTER V: LATIN LETTER INVERTED GLOTTAL STOP */
+			"\U007B" = ("insertText:", "\U02A2"); /* Compose, QUESTION MARK, LEFT CURLY BRACKET: LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE */
+			"\UFF08" = ("insertText:", "\U2E2E"); /* Compose, QUESTION MARK, FULLWIDTH LEFT PARENTHESIS: REVERSED QUESTION MARK */
+		};
+		"\U0040" = {
+			"\U0023" = ("insertText:", "\U2318"); /* Compose, COMMERCIAL AT, NUMBER SIGN: PLACE OF INTEREST SIGN */
+			"\U002F" = ("insertText:", "\U2713"); /* Compose, COMMERCIAL AT, SOLIDUS: CHECK MARK */
+			"\U0040" = {
+				"\U002F" = ("insertText:", "\U2714"); /* Compose, COMMERCIAL AT, COMMERCIAL AT, SOLIDUS: HEAVY CHECK MARK */
+				"\U0058" = ("insertText:", "\U2718"); /* Compose, COMMERCIAL AT, COMMERCIAL AT, LATIN CAPITAL LETTER X: HEAVY BALLOT X */
+			};
+			"\U0058" = ("insertText:", "\U2717"); /* Compose, COMMERCIAL AT, LATIN CAPITAL LETTER X: BALLOT X */
+			"\U00A7" = ("insertText:", "\UFE0F"); /* Compose, COMMERCIAL AT, Compose: VARIATION SELECTOR-16 */
+		};
+		"\U0041" = {
+			"\U0026" = {
+				"\U0041" = ("insertText:", "\UA732"); /* Compose, LATIN CAPITAL LETTER A, AMPERSAND, LATIN CAPITAL LETTER A: LATIN CAPITAL LETTER AA */
+				"\U004F" = ("insertText:", "\UA734"); /* Compose, LATIN CAPITAL LETTER A, AMPERSAND, LATIN CAPITAL LETTER O: LATIN CAPITAL LETTER AO */
+				"\U0055" = ("insertText:", "\UA736"); /* Compose, LATIN CAPITAL LETTER A, AMPERSAND, LATIN CAPITAL LETTER U: LATIN CAPITAL LETTER AU */
+				"\U0056" = ("insertText:", "\UA738"); /* Compose, LATIN CAPITAL LETTER A, AMPERSAND, LATIN CAPITAL LETTER V: LATIN CAPITAL LETTER AV */
+				"\U0059" = ("insertText:", "\UA73C"); /* Compose, LATIN CAPITAL LETTER A, AMPERSAND, LATIN CAPITAL LETTER Y: LATIN CAPITAL LETTER AY */
+			};
+			"\U003C" = ("insertText:", "\U2C6F"); /* Compose, LATIN CAPITAL LETTER A, LESS-THAN SIGN: LATIN CAPITAL LETTER TURNED A */
+			"\U0041" = ("insertText:", "\U2200"); /* Compose, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER A: FOR ALL */
+			"\U0057" = ("insertText:", "\U0186"); /* Compose, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER W: LATIN CAPITAL LETTER OPEN O */
+		};
+		"\U0042" = {
+			"\U002D" = ("insertText:", "\U0243"); /* Compose, LATIN CAPITAL LETTER B, HYPHEN-MINUS: LATIN CAPITAL LETTER B WITH STROKE */
+			"\U004F" = {
+				"\U004D" = ("insertText:", "\UFEFF"); /* Compose, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER O, LATIN CAPITAL LETTER M: ZERO WIDTH NO-BREAK SPACE */
+			};
+			"\U007C" = ("insertText:", "\U0E3F"); /* Compose, LATIN CAPITAL LETTER B, VERTICAL LINE: THAI CURRENCY SYMBOL BAHT */
+		};
+		"\U0043" = {
+			"\U0047" = {
+				"\U004A" = ("insertText:", "\U034F"); /* Compose, LATIN CAPITAL LETTER C, LATIN CAPITAL LETTER G, LATIN CAPITAL LETTER J: COMBINING GRAPHEME JOINER */
+			};
+			"\U005A" = ("insertText:", "\UA762"); /* Compose, LATIN CAPITAL LETTER C, LATIN CAPITAL LETTER Z: LATIN CAPITAL LETTER VISIGOTHIC Z */
+		};
+		"\U0045" = {
+			"\U003C" = ("insertText:", "\U018E"); /* Compose, LATIN CAPITAL LETTER E, LESS-THAN SIGN: LATIN CAPITAL LETTER REVERSED E */
+			"\U003E" = ("insertText:", "\U2661"); /* Compose, LATIN CAPITAL LETTER E, GREATER-THAN SIGN: WHITE HEART SUIT */
+			"\U0045" = ("insertText:", "\U2203"); /* Compose, LATIN CAPITAL LETTER E, LATIN CAPITAL LETTER E: THERE EXISTS */
+			"\UFF08" = ("insertText:", "\U018E"); /* Compose, LATIN CAPITAL LETTER E, FULLWIDTH LEFT PARENTHESIS: LATIN CAPITAL LETTER REVERSED E */
+		};
+		"\U0046" = {
+			"\U003C" = ("insertText:", "\UA7FB"); /* Compose, LATIN CAPITAL LETTER F, LESS-THAN SIGN: LATIN EPIGRAPHIC LETTER REVERSED F */
+			"\U0053" = {
+				"\U0049" = ("insertText:", "\U2068"); /* Compose, LATIN CAPITAL LETTER F, LATIN CAPITAL LETTER S, LATIN CAPITAL LETTER I:  */
+			};
+			"\U0069" = ("insertText:", "\UFB03"); /* Compose, LATIN CAPITAL LETTER F, LATIN SMALL LETTER I: LATIN SMALL LIGATURE FFI */
+			"\U006C" = ("insertText:", "\UFB04"); /* Compose, LATIN CAPITAL LETTER F, LATIN SMALL LETTER L: LATIN SMALL LIGATURE FFL */
+			"\UFF08" = ("insertText:", "\UA7FB"); /* Compose, LATIN CAPITAL LETTER F, FULLWIDTH LEFT PARENTHESIS: LATIN EPIGRAPHIC LETTER REVERSED F */
+			"\UFF51" = ("insertText:", "\U261A"); /* Compose, LATIN CAPITAL LETTER F, FULLWIDTH LATIN SMALL LETTER Q: BLACK LEFT POINTING INDEX */
+			"\UFF53" = ("insertText:", "\U261B"); /* Compose, LATIN CAPITAL LETTER F, FULLWIDTH LATIN SMALL LETTER S: BLACK RIGHT POINTING INDEX */
+		};
+		"\U0047" = {
+			"\U0027" = ("insertText:", "\U029B"); /* Compose, LATIN CAPITAL LETTER G, APOSTROPHE: LATIN LETTER SMALL CAPITAL G WITH HOOK */
+		};
+		"\U0049" = {
+			"\U0048" = ("insertText:", "\U026A"); /* Compose, LATIN CAPITAL LETTER I, LATIN CAPITAL LETTER H: LATIN LETTER SMALL CAPITAL I */
+			"\U006D" = ("insertText:", "\U2111"); /* Compose, LATIN CAPITAL LETTER I, LATIN SMALL LETTER M: BLACK-LETTER CAPITAL I */
+			"\U007C" = ("insertText:", "\UA7FE"); /* Compose, LATIN CAPITAL LETTER I, VERTICAL LINE: LATIN EPIGRAPHIC LETTER I LONGA */
+		};
+		"\U004C" = {
+			"\U0022" = ("insertText:", "\U300F"); /* Compose, LATIN CAPITAL LETTER L, QUOTATION MARK: RIGHT WHITE CORNER BRACKET */
+			"\U0026" = {
+				"\U004C" = ("insertText:", "\U1EFA"); /* Compose, LATIN CAPITAL LETTER L, AMPERSAND, LATIN CAPITAL LETTER L: LATIN CAPITAL LETTER MIDDLE-WELSH LL */
+			};
+			"\U0027" = ("insertText:", "\UFF63"); /* Compose, LATIN CAPITAL LETTER L, APOSTROPHE: HALFWIDTH RIGHT CORNER BRACKET */
+			"\U0052" = {
+				"\U0045" = ("insertText:", "\U202A"); /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER E: LEFT-TO-RIGHT EMBEDDING */
+				"\U0049" = ("insertText:", "\U2066"); /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER I:  */
+				"\U004D" = ("insertText:", "\U200E"); /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER M: LEFT-TO-RIGHT MARK */
+				"\U004F" = ("insertText:", "\U202D"); /* Compose, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER O: LEFT-TO-RIGHT OVERRIDE */
+			};
+			"\U005B" = ("insertText:", "\U230A"); /* Compose, LATIN CAPITAL LETTER L, LEFT SQUARE BRACKET: LEFT FLOOR */
+			"\U005D" = ("insertText:", "\U230B"); /* Compose, LATIN CAPITAL LETTER L, RIGHT SQUARE BRACKET: RIGHT FLOOR */
+			"\U005F" = {
+				"\U005B" = ("insertText:", "\U2E24"); /* Compose, LATIN CAPITAL LETTER L, LOW LINE, LEFT SQUARE BRACKET: BOTTOM LEFT HALF BRACKET */
+				"\U005D" = ("insertText:", "\U2E25"); /* Compose, LATIN CAPITAL LETTER L, LOW LINE, RIGHT SQUARE BRACKET: BOTTOM RIGHT HALF BRACKET */
+			};
+		};
+		"\U004D" = {
+			"\U002F" = ("insertText:", "\UA7FF"); /* Compose, LATIN CAPITAL LETTER M, SOLIDUS: LATIN EPIGRAPHIC LETTER ARCHAIC M */
+			"\U0057" = ("insertText:", "\UA7FD"); /* Compose, LATIN CAPITAL LETTER M, LATIN CAPITAL LETTER W: LATIN EPIGRAPHIC LETTER INVERTED M */
+		};
+		"\U004E" = {
+			"\U006F" = ("insertText:", "\U2116"); /* Compose, LATIN CAPITAL LETTER N, LATIN SMALL LETTER O: NUMERO SIGN */
+		};
+		"\U004F" = {
+			"\U0026" = {
+				"\U004F" = ("insertText:", "\UA74E"); /* Compose, LATIN CAPITAL LETTER O, AMPERSAND, LATIN CAPITAL LETTER O: LATIN CAPITAL LETTER OO */
+			};
+			"\U002E" = {
+				"\U004F" = ("insertText:", "\UA66C"); /* Compose, LATIN CAPITAL LETTER O, FULL STOP, LATIN CAPITAL LETTER O: CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O */
+			};
+			"\U003A" = ("insertText:", "\UA66A"); /* Compose, LATIN CAPITAL LETTER O, COLON: CYRILLIC CAPITAL LETTER BINOCULAR O */
+			"\U0055" = ("insertText:", "\U0222"); /* Compose, LATIN CAPITAL LETTER O, LATIN CAPITAL LETTER U: LATIN CAPITAL LETTER OU */
+		};
+		"\U0050" = {
+			"\U002D" = ("insertText:", "\U20BD"); /* Compose, LATIN CAPITAL LETTER P, HYPHEN-MINUS:  */
+			"\U003C" = ("insertText:", "\UA7FC"); /* Compose, LATIN CAPITAL LETTER P, LESS-THAN SIGN: LATIN EPIGRAPHIC LETTER REVERSED P */
+			"\U0044" = {
+				"\U0046" = ("insertText:", "\U202C"); /* Compose, LATIN CAPITAL LETTER P, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER F: POP DIRECTIONAL FORMATTING */
+				"\U0049" = ("insertText:", "\U2069"); /* Compose, LATIN CAPITAL LETTER P, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER I:  */
+			};
+			"\U0065" = {
+				"\U0072" = ("insertText:", "\U214C"); /* Compose, LATIN CAPITAL LETTER P, LATIN SMALL LETTER E, LATIN SMALL LETTER R: PER SIGN */
+			};
+			"\UFF08" = ("insertText:", "\UA7FC"); /* Compose, LATIN CAPITAL LETTER P, FULLWIDTH LEFT PARENTHESIS: LATIN EPIGRAPHIC LETTER REVERSED P */
+		};
+		"\U0052" = {
+			"\U004C" = {
+				"\U0045" = ("insertText:", "\U202B"); /* Compose, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER E: RIGHT-TO-LEFT EMBEDDING */
+				"\U0049" = ("insertText:", "\U2067"); /* Compose, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER I:  */
+				"\U004D" = ("insertText:", "\U200F"); /* Compose, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER M: RIGHT-TO-LEFT MARK */
+				"\U004F" = ("insertText:", "\U202E"); /* Compose, LATIN CAPITAL LETTER R, LATIN CAPITAL LETTER L, LATIN CAPITAL LETTER O: RIGHT-TO-LEFT OVERRIDE */
+			};
+			"\U0065" = ("insertText:", "\U211C"); /* Compose, LATIN CAPITAL LETTER R, LATIN SMALL LETTER E: BLACK-LETTER CAPITAL R */
+			"\U0078" = ("insertText:", "\U211E"); /* Compose, LATIN CAPITAL LETTER R, LATIN SMALL LETTER X: PRESCRIPTION TAKE */
+		};
+		"\U0053" = {
+			"\U0028" = ("insertText:", "\U27C5"); /* Compose, LATIN CAPITAL LETTER S, LEFT PARENTHESIS: LEFT S-SHAPED BAG DELIMITER */
+			"\U0029" = ("insertText:", "\U27C6"); /* Compose, LATIN CAPITAL LETTER S, RIGHT PARENTHESIS: RIGHT S-SHAPED BAG DELIMITER */
+			"\U0053" = ("insertText:", "\U1E9E"); /* Compose, LATIN CAPITAL LETTER S, LATIN CAPITAL LETTER S: LATIN CAPITAL LETTER SHARP S */
+		};
+		"\U0055" = {
+			"\U0048" = ("insertText:", "\U028A"); /* Compose, LATIN CAPITAL LETTER U, LATIN CAPITAL LETTER H: LATIN SMALL LETTER UPSILON */
+		};
+		"\U0056" = {
+			"\U0026" = {
+				"\U0056" = ("insertText:", "\U1EFC"); /* Compose, LATIN CAPITAL LETTER V, AMPERSAND, LATIN CAPITAL LETTER V: LATIN CAPITAL LETTER MIDDLE-WELSH V */
+				"\U0059" = ("insertText:", "\UA760"); /* Compose, LATIN CAPITAL LETTER V, AMPERSAND, LATIN CAPITAL LETTER Y: LATIN CAPITAL LETTER VY */
+			};
+		};
+		"\U0057" = {
+			"\U0057" = ("insertText:", "\U02AC"); /* Compose, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER W: LATIN LETTER BILABIAL PERCUSSIVE */
+			"\U0059" = ("insertText:", "\U01F7"); /* Compose, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER Y: LATIN CAPITAL LETTER WYNN */
+		};
+		"\U0059" = {
+			"\U0047" = ("insertText:", "\U021C"); /* Compose, LATIN CAPITAL LETTER Y, LATIN CAPITAL LETTER G: LATIN CAPITAL LETTER YOGH */
+		};
+		"\U005A" = {
+			"\U0028" = ("insertText:", "\U0F3C"); /* Compose, LATIN CAPITAL LETTER Z, LEFT PARENTHESIS: TIBETAN MARK ANG KHANG GYON */
+			"\U0029" = ("insertText:", "\U0F3D"); /* Compose, LATIN CAPITAL LETTER Z, RIGHT PARENTHESIS: TIBETAN MARK ANG KHANG GYAS */
+			"\U002E" = ("insertText:", "\UA76A"); /* Compose, LATIN CAPITAL LETTER Z, FULL STOP: LATIN CAPITAL LETTER ET */
+			"\U0057" = {
+				"\U004A" = ("insertText:", "\U200D"); /* Compose, LATIN CAPITAL LETTER Z, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER J: ZERO WIDTH JOINER */
+				"\U004E" = {
+					"\U004A" = ("insertText:", "\U200C"); /* Compose, LATIN CAPITAL LETTER Z, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER N, LATIN CAPITAL LETTER J: ZERO WIDTH NON-JOINER */
+				};
+				"\U0053" = {
+					"\U0050" = ("insertText:", "\U200B"); /* Compose, LATIN CAPITAL LETTER Z, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER S, LATIN CAPITAL LETTER P: ZERO WIDTH SPACE */
+				};
+			};
+		};
+		"\U005B" = {
+			"\U0020" = {
+				"\U005D" = ("insertText:", "\U2610"); /* Compose, LEFT SQUARE BRACKET, SPACE, RIGHT SQUARE BRACKET: BALLOT BOX */
+			};
+			"\U002F" = {
+				"\U005D" = ("insertText:", "\U2611"); /* Compose, LEFT SQUARE BRACKET, SOLIDUS, RIGHT SQUARE BRACKET: BALLOT BOX WITH CHECK */
+			};
+			"\U0031" = {
+				"\U005D" = ("insertText:", "\U2680"); /* Compose, LEFT SQUARE BRACKET, DIGIT ONE, RIGHT SQUARE BRACKET: DIE FACE-1 */
+			};
+			"\U0032" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D2"); /* Compose, LEFT SQUARE BRACKET, DIGIT TWO, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD TWO OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C2"); /* Compose, LEFT SQUARE BRACKET, DIGIT TWO, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD TWO OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B2"); /* Compose, LEFT SQUARE BRACKET, DIGIT TWO, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD TWO OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A2"); /* Compose, LEFT SQUARE BRACKET, DIGIT TWO, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD TWO OF SPADES */
+				};
+				"\U005D" = ("insertText:", "\U2681"); /* Compose, LEFT SQUARE BRACKET, DIGIT TWO, RIGHT SQUARE BRACKET: DIE FACE-2 */
+			};
+			"\U0033" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D3"); /* Compose, LEFT SQUARE BRACKET, DIGIT THREE, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD THREE OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C3"); /* Compose, LEFT SQUARE BRACKET, DIGIT THREE, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD THREE OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B3"); /* Compose, LEFT SQUARE BRACKET, DIGIT THREE, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD THREE OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A3"); /* Compose, LEFT SQUARE BRACKET, DIGIT THREE, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD THREE OF SPADES */
+				};
+				"\U005D" = ("insertText:", "\U2682"); /* Compose, LEFT SQUARE BRACKET, DIGIT THREE, RIGHT SQUARE BRACKET: DIE FACE-3 */
+			};
+			"\U0034" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D4"); /* Compose, LEFT SQUARE BRACKET, DIGIT FOUR, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD FOUR OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C4"); /* Compose, LEFT SQUARE BRACKET, DIGIT FOUR, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD FOUR OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B4"); /* Compose, LEFT SQUARE BRACKET, DIGIT FOUR, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD FOUR OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A4"); /* Compose, LEFT SQUARE BRACKET, DIGIT FOUR, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD FOUR OF SPADES */
+				};
+				"\U005D" = ("insertText:", "\U2683"); /* Compose, LEFT SQUARE BRACKET, DIGIT FOUR, RIGHT SQUARE BRACKET: DIE FACE-4 */
+			};
+			"\U0035" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D5"); /* Compose, LEFT SQUARE BRACKET, DIGIT FIVE, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD FIVE OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C5"); /* Compose, LEFT SQUARE BRACKET, DIGIT FIVE, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD FIVE OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B5"); /* Compose, LEFT SQUARE BRACKET, DIGIT FIVE, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD FIVE OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A5"); /* Compose, LEFT SQUARE BRACKET, DIGIT FIVE, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD FIVE OF SPADES */
+				};
+				"\U005D" = ("insertText:", "\U2684"); /* Compose, LEFT SQUARE BRACKET, DIGIT FIVE, RIGHT SQUARE BRACKET: DIE FACE-5 */
+			};
+			"\U0036" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D6"); /* Compose, LEFT SQUARE BRACKET, DIGIT SIX, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD SIX OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C6"); /* Compose, LEFT SQUARE BRACKET, DIGIT SIX, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD SIX OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B6"); /* Compose, LEFT SQUARE BRACKET, DIGIT SIX, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD SIX OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A6"); /* Compose, LEFT SQUARE BRACKET, DIGIT SIX, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD SIX OF SPADES */
+				};
+				"\U005D" = ("insertText:", "\U2685"); /* Compose, LEFT SQUARE BRACKET, DIGIT SIX, RIGHT SQUARE BRACKET: DIE FACE-6 */
+			};
+			"\U0037" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D7"); /* Compose, LEFT SQUARE BRACKET, DIGIT SEVEN, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD SEVEN OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C7"); /* Compose, LEFT SQUARE BRACKET, DIGIT SEVEN, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD SEVEN OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B7"); /* Compose, LEFT SQUARE BRACKET, DIGIT SEVEN, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD SEVEN OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A7"); /* Compose, LEFT SQUARE BRACKET, DIGIT SEVEN, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD SEVEN OF SPADES */
+				};
+			};
+			"\U0038" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D8"); /* Compose, LEFT SQUARE BRACKET, DIGIT EIGHT, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD EIGHT OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C8"); /* Compose, LEFT SQUARE BRACKET, DIGIT EIGHT, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD EIGHT OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B8"); /* Compose, LEFT SQUARE BRACKET, DIGIT EIGHT, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD EIGHT OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A8"); /* Compose, LEFT SQUARE BRACKET, DIGIT EIGHT, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD EIGHT OF SPADES */
+				};
+			};
+			"\U0039" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D9"); /* Compose, LEFT SQUARE BRACKET, DIGIT NINE, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD NINE OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C9"); /* Compose, LEFT SQUARE BRACKET, DIGIT NINE, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD NINE OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B9"); /* Compose, LEFT SQUARE BRACKET, DIGIT NINE, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD NINE OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A9"); /* Compose, LEFT SQUARE BRACKET, DIGIT NINE, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD NINE OF SPADES */
+				};
+			};
+			"\U003D" = ("insertText:", "\U2291"); /* Compose, LEFT SQUARE BRACKET, EQUALS SIGN: SQUARE IMAGE OF OR EQUAL TO */
+			"\U0041" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0D1"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD ACE OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0C1"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD ACE OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0B1"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD ACE OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0A1"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD ACE OF SPADES */
+				};
+			};
+			"\U0042" = {
+				"\U004A" = {
+					"\U005D" = ("insertText:", "\U1F0CF"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER J, RIGHT SQUARE BRACKET: PLAYING CARD BLACK JOKER */
+				};
+			};
+			"\U0043" = {
+				"\U0042" = {
+					"\U005D" = ("insertText:", "\U1F0A0"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER C, LATIN CAPITAL LETTER B, RIGHT SQUARE BRACKET: PLAYING CARD BACK */
+				};
+			};
+			"\U004A" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0DB"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER J, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD JACK OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0CB"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER J, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD JACK OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0BB"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER J, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD JACK OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0AB"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER J, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD JACK OF SPADES */
+				};
+			};
+			"\U004B" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0DE"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER K, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD KING OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0CE"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER K, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD KING OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0BE"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER K, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD KING OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0AE"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER K, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD KING OF SPADES */
+				};
+			};
+			"\U004E" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0DC"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER N, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD KNIGHT OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0CC"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER N, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD KNIGHT OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0BC"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER N, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD KNIGHT OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0AC"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER N, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD KNIGHT OF SPADES */
+				};
+			};
+			"\U0051" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0DD"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER Q, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD QUEEN OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0CD"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER Q, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD QUEEN OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0BD"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER Q, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD QUEEN OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0AD"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER Q, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD QUEEN OF SPADES */
+				};
+			};
+			"\U0054" = {
+				"\U0043" = {
+					"\U005D" = ("insertText:", "\U1F0DA"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER T, LATIN CAPITAL LETTER C, RIGHT SQUARE BRACKET: PLAYING CARD TEN OF CLUBS */
+				};
+				"\U0044" = {
+					"\U005D" = ("insertText:", "\U1F0CA"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER T, LATIN CAPITAL LETTER D, RIGHT SQUARE BRACKET: PLAYING CARD TEN OF DIAMONDS */
+				};
+				"\U0048" = {
+					"\U005D" = ("insertText:", "\U1F0BA"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER T, LATIN CAPITAL LETTER H, RIGHT SQUARE BRACKET: PLAYING CARD TEN OF HEARTS */
+				};
+				"\U0053" = {
+					"\U005D" = ("insertText:", "\U1F0AA"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER T, LATIN CAPITAL LETTER S, RIGHT SQUARE BRACKET: PLAYING CARD TEN OF SPADES */
+				};
+			};
+			"\U0057" = {
+				"\U004A" = {
+					"\U005D" = ("insertText:", "\U1F0DF"); /* Compose, LEFT SQUARE BRACKET, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER J, RIGHT SQUARE BRACKET: PLAYING CARD WHITE JOKER */
+				};
+			};
+			"\U005B" = ("insertText:", "\U228F"); /* Compose, LEFT SQUARE BRACKET, LEFT SQUARE BRACKET: SQUARE IMAGE OF */
+			"\U005F" = ("insertText:", "\U2291"); /* Compose, LEFT SQUARE BRACKET, LOW LINE: SQUARE IMAGE OF OR EQUAL TO */
+			"\U006B" = {
+				"\U0065" = {
+					"\U0079" = {
+						"\U005D" = ("insertText:", "\U26BF"); /* Compose, LEFT SQUARE BRACKET, LATIN SMALL LETTER K, LATIN SMALL LETTER E, LATIN SMALL LETTER Y, RIGHT SQUARE BRACKET: SQUARED KEY */
+					};
+				};
+			};
+			"\U0078" = {
+				"\U005D" = ("insertText:", "\U2612"); /* Compose, LEFT SQUARE BRACKET, LATIN SMALL LETTER X, RIGHT SQUARE BRACKET: BALLOT BOX WITH X */
+			};
+		};
+		"\U005C" = {
+			"\U0020" = ("insertText:", "\U2423"); /* Compose, REVERSE SOLIDUS, SPACE: OPEN BOX */
+			"\U0021" = ("insertText:", "\U0323"); /* Compose, REVERSE SOLIDUS, EXCLAMATION MARK: COMBINING DOT BELOW */
+			"\U0022" = ("insertText:", "\U0308"); /* Compose, REVERSE SOLIDUS, QUOTATION MARK: COMBINING DIAERESIS */
+			"\U0026" = {
+				"\U002D" = ("insertText:", "\U035E"); /* Compose, REVERSE SOLIDUS, AMPERSAND, HYPHEN-MINUS: COMBINING DOUBLE MACRON */
+				"\U003E" = ("insertText:", "\U0362"); /* Compose, REVERSE SOLIDUS, AMPERSAND, GREATER-THAN SIGN: COMBINING DOUBLE RIGHTWARDS ARROW BELOW */
+				"\U0040" = {
+					"\U002D" = ("insertText:", "\U035F"); /* Compose, REVERSE SOLIDUS, AMPERSAND, COMMERCIAL AT, HYPHEN-MINUS: COMBINING DOUBLE MACRON BELOW */
+					"\U0055" = ("insertText:", "\U035C"); /* Compose, REVERSE SOLIDUS, AMPERSAND, COMMERCIAL AT, LATIN CAPITAL LETTER U: COMBINING DOUBLE BREVE BELOW */
+					"\U0069" = {
+						"\U0062" = ("insertText:", "\U1DFC"); /* Compose, REVERSE SOLIDUS, AMPERSAND, COMMERCIAL AT, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING DOUBLE INVERTED BREVE BELOW */
+					};
+				};
+				"\U0055" = ("insertText:", "\U035D"); /* Compose, REVERSE SOLIDUS, AMPERSAND, LATIN CAPITAL LETTER U: COMBINING DOUBLE BREVE */
+				"\U005F" = ("insertText:", "\U035F"); /* Compose, REVERSE SOLIDUS, AMPERSAND, LOW LINE: COMBINING DOUBLE MACRON BELOW */
+				"\U0069" = {
+					"\U0062" = ("insertText:", "\U0361"); /* Compose, REVERSE SOLIDUS, AMPERSAND, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING DOUBLE INVERTED BREVE */
+				};
+				"\U007E" = ("insertText:", "\U0360"); /* Compose, REVERSE SOLIDUS, AMPERSAND, TILDE: COMBINING DOUBLE TILDE */
+			};
+			"\U0027" = ("insertText:", "\U0301"); /* Compose, REVERSE SOLIDUS, APOSTROPHE: COMBINING ACUTE ACCENT */
+			"\U0028" = {
+				"\U002E" = ("insertText:", "\U0310"); /* Compose, REVERSE SOLIDUS, LEFT PARENTHESIS, FULL STOP: COMBINING CANDRABINDU */
+			};
+			"\U002A" = ("insertText:", "\U0489"); /* Compose, REVERSE SOLIDUS, ASTERISK: COMBINING CYRILLIC MILLIONS SIGN */
+			"\U002C" = ("insertText:", "\U2009"); /* Compose, REVERSE SOLIDUS, COMMA: THIN SPACE */
+			"\U002D" = ("insertText:", "\U00AD"); /* Compose, REVERSE SOLIDUS, HYPHEN-MINUS: SOFT HYPHEN */
+			"\U002E" = ("insertText:", "\U0307"); /* Compose, REVERSE SOLIDUS, FULL STOP: COMBINING DOT ABOVE */
+			"\U002F" = ("insertText:", "\U2228"); /* Compose, REVERSE SOLIDUS, SOLIDUS: LOGICAL OR */
+			"\U0030" = ("insertText:", "\U030A"); /* Compose, REVERSE SOLIDUS, DIGIT ZERO: COMBINING RING ABOVE */
+			"\U0032" = {
+				"\U002D" = ("insertText:", "\U035E"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, HYPHEN-MINUS: COMBINING DOUBLE MACRON */
+				"\U003E" = ("insertText:", "\U0362"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, GREATER-THAN SIGN: COMBINING DOUBLE RIGHTWARDS ARROW BELOW */
+				"\U0040" = {
+					"\U002D" = ("insertText:", "\U035F"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, COMMERCIAL AT, HYPHEN-MINUS: COMBINING DOUBLE MACRON BELOW */
+					"\U0055" = ("insertText:", "\U035C"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, COMMERCIAL AT, LATIN CAPITAL LETTER U: COMBINING DOUBLE BREVE BELOW */
+					"\U0069" = {
+						"\U0062" = ("insertText:", "\U1DFC"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, COMMERCIAL AT, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING DOUBLE INVERTED BREVE BELOW */
+					};
+				};
+				"\U0055" = ("insertText:", "\U035D"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, LATIN CAPITAL LETTER U: COMBINING DOUBLE BREVE */
+				"\U005F" = ("insertText:", "\U035F"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, LOW LINE: COMBINING DOUBLE MACRON BELOW */
+				"\U0060" = ("insertText:", "\U030F"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, GRAVE ACCENT: COMBINING DOUBLE GRAVE ACCENT */
+				"\U0069" = {
+					"\U0062" = ("insertText:", "\U0361"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING DOUBLE INVERTED BREVE */
+				};
+				"\U007C" = ("insertText:", "\U030E"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, VERTICAL LINE: COMBINING DOUBLE VERTICAL LINE ABOVE */
+				"\U007E" = ("insertText:", "\U0360"); /* Compose, REVERSE SOLIDUS, DIGIT TWO, TILDE: COMBINING DOUBLE TILDE */
+			};
+			"\U003D" = ("insertText:", "\U0304"); /* Compose, REVERSE SOLIDUS, EQUALS SIGN: COMBINING MACRON */
+			"\U003E" = ("insertText:", "\U25B7"); /* Compose, REVERSE SOLIDUS, GREATER-THAN SIGN: WHITE RIGHT-POINTING TRIANGLE */
+			"\U003F" = ("insertText:", "\U0309"); /* Compose, REVERSE SOLIDUS, QUESTION MARK: COMBINING HOOK ABOVE */
+			"\U0040" = {
+				"\U0055" = ("insertText:", "\U032E"); /* Compose, REVERSE SOLIDUS, COMMERCIAL AT, LATIN CAPITAL LETTER U: COMBINING BREVE BELOW */
+				"\U005E" = ("insertText:", "\U032D"); /* Compose, REVERSE SOLIDUS, COMMERCIAL AT, CIRCUMFLEX ACCENT: COMBINING CIRCUMFLEX ACCENT BELOW */
+				"\U0063" = ("insertText:", "\U032C"); /* Compose, REVERSE SOLIDUS, COMMERCIAL AT, LATIN SMALL LETTER C: COMBINING CARON BELOW */
+				"\U0069" = {
+					"\U0062" = ("insertText:", "\U032F"); /* Compose, REVERSE SOLIDUS, COMMERCIAL AT, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING INVERTED BREVE BELOW */
+				};
+				"\U006F" = ("insertText:", "\U0325"); /* Compose, REVERSE SOLIDUS, COMMERCIAL AT, LATIN SMALL LETTER O: COMBINING RING BELOW */
+			};
+			"\U0055" = ("insertText:", "\U0306"); /* Compose, REVERSE SOLIDUS, LATIN CAPITAL LETTER U: COMBINING BREVE */
+			"\U005C" = {
+				"\U0027" = ("insertText:", "\U030B"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, APOSTROPHE: COMBINING DOUBLE ACUTE ACCENT */
+				"\U002C" = ("insertText:", "\U0313"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, COMMA: COMBINING COMMA ABOVE */
+				"\U003C" = {
+					"\U002C" = ("insertText:", "\U0314"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, LESS-THAN SIGN, COMMA: COMBINING REVERSED COMMA ABOVE */
+				};
+				"\U003D" = ("insertText:", "\U0305"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, EQUALS SIGN: COMBINING OVERLINE */
+				"\U005C" = {
+					"\U002C" = ("insertText:", "\U0312"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, REVERSE SOLIDUS, COMMA: COMBINING TURNED COMMA ABOVE */
+					"\U005F" = ("insertText:", "\U0333"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, REVERSE SOLIDUS, LOW LINE: COMBINING DOUBLE LOW LINE */
+				};
+				"\U005F" = ("insertText:", "\U0332"); /* Compose, REVERSE SOLIDUS, REVERSE SOLIDUS, LOW LINE: COMBINING LOW LINE */
+			};
+			"\U005E" = ("insertText:", "\U0302"); /* Compose, REVERSE SOLIDUS, CIRCUMFLEX ACCENT: COMBINING CIRCUMFLEX ACCENT */
+			"\U005F" = {
+				"\U002F" = ("insertText:", "\U22BB"); /* Compose, REVERSE SOLIDUS, LOW LINE, SOLIDUS: XOR */
+				"\U005F" = ("insertText:", "\U0331"); /* Compose, REVERSE SOLIDUS, LOW LINE, LOW LINE: COMBINING MACRON BELOW */
+				"\U007C" = ("insertText:", "\U0329"); /* Compose, REVERSE SOLIDUS, LOW LINE, VERTICAL LINE: COMBINING VERTICAL LINE BELOW */
+			};
+			"\U0060" = ("insertText:", "\U0300"); /* Compose, REVERSE SOLIDUS, GRAVE ACCENT: COMBINING GRAVE ACCENT */
+			"\U0063" = ("insertText:", "\U030C"); /* Compose, REVERSE SOLIDUS, LATIN SMALL LETTER C: COMBINING CARON */
+			"\U0066" = {
+				"\U006D" = ("insertText:", "\U0352"); /* Compose, REVERSE SOLIDUS, LATIN SMALL LETTER F, LATIN SMALL LETTER M: COMBINING FERMATA */
+			};
+			"\U0069" = {
+				"\U0062" = ("insertText:", "\U0311"); /* Compose, REVERSE SOLIDUS, LATIN SMALL LETTER I, LATIN SMALL LETTER B: COMBINING INVERTED BREVE */
+			};
+			"\U006F" = ("insertText:", "\U030A"); /* Compose, REVERSE SOLIDUS, LATIN SMALL LETTER O: COMBINING RING ABOVE */
+			"\U007C" = ("insertText:", "\U030D"); /* Compose, REVERSE SOLIDUS, VERTICAL LINE: COMBINING VERTICAL LINE ABOVE */
+			"\U007E" = ("insertText:", "\U0303"); /* Compose, REVERSE SOLIDUS, TILDE: COMBINING TILDE */
+		};
+		"\U005D" = {
+			"\U003D" = ("insertText:", "\U2292"); /* Compose, RIGHT SQUARE BRACKET, EQUALS SIGN: SQUARE ORIGINAL OF OR EQUAL TO */
+			"\U005F" = ("insertText:", "\U2292"); /* Compose, RIGHT SQUARE BRACKET, LOW LINE: SQUARE ORIGINAL OF OR EQUAL TO */
+		};
+		"\U005E" = {
+			"\U002B" = ("insertText:", "\U207A"); /* Compose, CIRCUMFLEX ACCENT, PLUS SIGN: SUPERSCRIPT PLUS SIGN */
+			"\U002D" = ("insertText:", "\U207B"); /* Compose, CIRCUMFLEX ACCENT, HYPHEN-MINUS: SUPERSCRIPT MINUS */
+			"\U003E" = ("insertText:", "\U20D7"); /* Compose, CIRCUMFLEX ACCENT, GREATER-THAN SIGN: COMBINING RIGHT ARROW ABOVE */
+			"\U003F" = {
+				"\U0028" = ("insertText:", "\U02C1"); /* Compose, CIRCUMFLEX ACCENT, QUESTION MARK, LEFT PARENTHESIS: MODIFIER LETTER REVERSED GLOTTAL STOP */
+				"\U002E" = ("insertText:", "\U02C0"); /* Compose, CIRCUMFLEX ACCENT, QUESTION MARK, FULL STOP: MODIFIER LETTER GLOTTAL STOP */
+			};
+			"\U005E" = {
+				"\U0065" = ("insertText:", "\U1D49"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER E: MODIFIER LETTER SMALL E */
+				"\U0068" = ("insertText:", "\U02B0"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER H: MODIFIER LETTER SMALL H */
+				"\U0069" = ("insertText:", "\U2071"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER I: SUPERSCRIPT LATIN SMALL LETTER I */
+				"\U006A" = ("insertText:", "\U02B2"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER J: MODIFIER LETTER SMALL J */
+				"\U006E" = ("insertText:", "\U207F"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER N: SUPERSCRIPT LATIN SMALL LETTER N */
+				"\U0072" = ("insertText:", "\U02B3"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER R: MODIFIER LETTER SMALL R */
+				"\U0074" = ("insertText:", "\U1D57"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER T: MODIFIER LETTER SMALL T */
+				"\U0077" = ("insertText:", "\U02B7"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER W: MODIFIER LETTER SMALL W */
+				"\U0079" = ("insertText:", "\U02B8"); /* Compose, CIRCUMFLEX ACCENT, CIRCUMFLEX ACCENT, LATIN SMALL LETTER Y: MODIFIER LETTER SMALL Y */
+			};
+			"\U007C" = ("insertText:", "\U2E2F"); /* Compose, CIRCUMFLEX ACCENT, VERTICAL LINE: VERTICAL TILDE */
+		};
+		"\U005F" = {
+			"\U0028" = ("insertText:", "\U208D"); /* Compose, LOW LINE, LEFT PARENTHESIS: SUBSCRIPT LEFT PARENTHESIS */
+			"\U0029" = ("insertText:", "\U208E"); /* Compose, LOW LINE, RIGHT PARENTHESIS: SUBSCRIPT RIGHT PARENTHESIS */
+			"\U002A" = {
+				"\U0062" = ("insertText:", "\U1D66"); /* Compose, LOW LINE, ASTERISK, LATIN SMALL LETTER B: GREEK SUBSCRIPT SMALL LETTER BETA */
+				"\U0066" = ("insertText:", "\U1D69"); /* Compose, LOW LINE, ASTERISK, LATIN SMALL LETTER F: GREEK SUBSCRIPT SMALL LETTER PHI */
+				"\U0067" = ("insertText:", "\U1D67"); /* Compose, LOW LINE, ASTERISK, LATIN SMALL LETTER G: GREEK SUBSCRIPT SMALL LETTER GAMMA */
+				"\U0072" = ("insertText:", "\U1D68"); /* Compose, LOW LINE, ASTERISK, LATIN SMALL LETTER R: GREEK SUBSCRIPT SMALL LETTER RHO */
+				"\U0078" = ("insertText:", "\U1D6A"); /* Compose, LOW LINE, ASTERISK, LATIN SMALL LETTER X: GREEK SUBSCRIPT SMALL LETTER CHI */
+			};
+			"\U002B" = ("insertText:", "\U208A"); /* Compose, LOW LINE, PLUS SIGN: SUBSCRIPT PLUS SIGN */
+			"\U002D" = ("insertText:", "\U208B"); /* Compose, LOW LINE, HYPHEN-MINUS: SUBSCRIPT MINUS */
+			"\U0030" = ("insertText:", "\U2080"); /* Compose, LOW LINE, DIGIT ZERO: SUBSCRIPT ZERO */
+			"\U0031" = ("insertText:", "\U2081"); /* Compose, LOW LINE, DIGIT ONE: SUBSCRIPT ONE */
+			"\U0032" = ("insertText:", "\U2082"); /* Compose, LOW LINE, DIGIT TWO: SUBSCRIPT TWO */
+			"\U0033" = ("insertText:", "\U2083"); /* Compose, LOW LINE, DIGIT THREE: SUBSCRIPT THREE */
+			"\U0034" = ("insertText:", "\U2084"); /* Compose, LOW LINE, DIGIT FOUR: SUBSCRIPT FOUR */
+			"\U0035" = ("insertText:", "\U2085"); /* Compose, LOW LINE, DIGIT FIVE: SUBSCRIPT FIVE */
+			"\U0036" = ("insertText:", "\U2086"); /* Compose, LOW LINE, DIGIT SIX: SUBSCRIPT SIX */
+			"\U0037" = ("insertText:", "\U2087"); /* Compose, LOW LINE, DIGIT SEVEN: SUBSCRIPT SEVEN */
+			"\U0038" = ("insertText:", "\U2088"); /* Compose, LOW LINE, DIGIT EIGHT: SUBSCRIPT EIGHT */
+			"\U0039" = ("insertText:", "\U2089"); /* Compose, LOW LINE, DIGIT NINE: SUBSCRIPT NINE */
+			"\U003D" = ("insertText:", "\U208C"); /* Compose, LOW LINE, EQUALS SIGN: SUBSCRIPT EQUALS SIGN */
+			"\U005E" = {
+				"\U005F" = ("insertText:", "\U2324"); /* Compose, LOW LINE, CIRCUMFLEX ACCENT, LOW LINE: UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS */
+			};
+			"\U0061" = ("insertText:", "\U2090"); /* Compose, LOW LINE, LATIN SMALL LETTER A: LATIN SUBSCRIPT SMALL LETTER A */
+			"\U0065" = ("insertText:", "\U2091"); /* Compose, LOW LINE, LATIN SMALL LETTER E: LATIN SUBSCRIPT SMALL LETTER E */
+			"\U0068" = ("insertText:", "\U2095"); /* Compose, LOW LINE, LATIN SMALL LETTER H: LATIN SUBSCRIPT SMALL LETTER H */
+			"\U0069" = ("insertText:", "\U1D62"); /* Compose, LOW LINE, LATIN SMALL LETTER I: LATIN SUBSCRIPT SMALL LETTER I */
+			"\U006A" = ("insertText:", "\U2C7C"); /* Compose, LOW LINE, LATIN SMALL LETTER J: LATIN SUBSCRIPT SMALL LETTER J */
+			"\U006B" = ("insertText:", "\U2096"); /* Compose, LOW LINE, LATIN SMALL LETTER K: LATIN SUBSCRIPT SMALL LETTER K */
+			"\U006C" = ("insertText:", "\U2097"); /* Compose, LOW LINE, LATIN SMALL LETTER L: LATIN SUBSCRIPT SMALL LETTER L */
+			"\U006D" = ("insertText:", "\U2098"); /* Compose, LOW LINE, LATIN SMALL LETTER M: LATIN SUBSCRIPT SMALL LETTER M */
+			"\U006E" = ("insertText:", "\U2099"); /* Compose, LOW LINE, LATIN SMALL LETTER N: LATIN SUBSCRIPT SMALL LETTER N */
+			"\U006F" = ("insertText:", "\U2092"); /* Compose, LOW LINE, LATIN SMALL LETTER O: LATIN SUBSCRIPT SMALL LETTER O */
+			"\U0070" = ("insertText:", "\U209A"); /* Compose, LOW LINE, LATIN SMALL LETTER P: LATIN SUBSCRIPT SMALL LETTER P */
+			"\U0072" = ("insertText:", "\U1D63"); /* Compose, LOW LINE, LATIN SMALL LETTER R: LATIN SUBSCRIPT SMALL LETTER R */
+			"\U0073" = ("insertText:", "\U209B"); /* Compose, LOW LINE, LATIN SMALL LETTER S: LATIN SUBSCRIPT SMALL LETTER S */
+			"\U0074" = ("insertText:", "\U209C"); /* Compose, LOW LINE, LATIN SMALL LETTER T: LATIN SUBSCRIPT SMALL LETTER T */
+			"\U0075" = ("insertText:", "\U1D64"); /* Compose, LOW LINE, LATIN SMALL LETTER U: LATIN SUBSCRIPT SMALL LETTER U */
+			"\U0076" = ("insertText:", "\U1D65"); /* Compose, LOW LINE, LATIN SMALL LETTER V: LATIN SUBSCRIPT SMALL LETTER V */
+			"\U0078" = ("insertText:", "\U2093"); /* Compose, LOW LINE, LATIN SMALL LETTER X: LATIN SUBSCRIPT SMALL LETTER X */
+		};
+		"\U0060" = {
+			"\U0020" = ("insertText:", "\U2018"); /* Compose, GRAVE ACCENT, SPACE: LEFT SINGLE QUOTATION MARK */
+			"\U002D" = {
+				"\U0027" = ("insertText:", "\U269E"); /* Compose, GRAVE ACCENT, HYPHEN-MINUS, APOSTROPHE: THREE LINES CONVERGING RIGHT */
+			};
+			"\U0060" = ("insertText:", "\U201C"); /* Compose, GRAVE ACCENT, GRAVE ACCENT: LEFT DOUBLE QUOTATION MARK */
+		};
+		"\U0061" = {
+			"\U0026" = {
+				"\U0061" = ("insertText:", "\UA733"); /* Compose, LATIN SMALL LETTER A, AMPERSAND, LATIN SMALL LETTER A: LATIN SMALL LETTER AA */
+				"\U006F" = ("insertText:", "\UA735"); /* Compose, LATIN SMALL LETTER A, AMPERSAND, LATIN SMALL LETTER O: LATIN SMALL LETTER AO */
+				"\U0075" = ("insertText:", "\UA737"); /* Compose, LATIN SMALL LETTER A, AMPERSAND, LATIN SMALL LETTER U: LATIN SMALL LETTER AU */
+				"\U0076" = ("insertText:", "\UA739"); /* Compose, LATIN SMALL LETTER A, AMPERSAND, LATIN SMALL LETTER V: LATIN SMALL LETTER AV */
+				"\U0079" = ("insertText:", "\UA73D"); /* Compose, LATIN SMALL LETTER A, AMPERSAND, LATIN SMALL LETTER Y: LATIN SMALL LETTER AY */
+			};
+			"\U0060" = ("insertText:", "\U1D00"); /* Compose, LATIN SMALL LETTER A, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL A */
+			"\U0061" = ("insertText:", "\U0250"); /* Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER A: LATIN SMALL LETTER TURNED A */
+			"\U0068" = ("insertText:", "\U0251"); /* Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER H: LATIN SMALL LETTER ALPHA */
+			"\U0069" = {
+				"\U006E" = ("insertText:", "\U1D25"); /* Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER I, LATIN SMALL LETTER N: LATIN LETTER AIN */
+			};
+			"\U0077" = ("insertText:", "\U0254"); /* Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER W: LATIN SMALL LETTER OPEN O */
+		};
+		"\U0062" = {
+			"\U0027" = ("insertText:", "\U0253"); /* Compose, LATIN SMALL LETTER B, APOSTROPHE: LATIN SMALL LETTER B WITH HOOK */
+			"\U002D" = ("insertText:", "\U0180"); /* Compose, LATIN SMALL LETTER B, HYPHEN-MINUS: LATIN SMALL LETTER B WITH STROKE */
+			"\U0060" = ("insertText:", "\U0299"); /* Compose, LATIN SMALL LETTER B, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL B */
+			"\U0063" = {
+				"\U0069" = ("insertText:", "\U25CF"); /* Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER C, LATIN SMALL LETTER I: BLACK CIRCLE */
+			};
+			"\U0073" = {
+				"\U0071" = ("insertText:", "\U25A0"); /* Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER S, LATIN SMALL LETTER Q: BLACK SQUARE */
+			};
+			"\U0075" = {
+				"\U0074" = ("insertText:", "\U25B2"); /* Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER U, LATIN SMALL LETTER T: BLACK UP-POINTING TRIANGLE */
+			};
+		};
+		"\U0063" = {
+			"\U002E" = {
+				"\U002E" = ("insertText:", "\U22EF"); /* Compose, LATIN SMALL LETTER C, FULL STOP, FULL STOP: MIDLINE HORIZONTAL ELLIPSIS */
+			};
+			"\U0031" = {
+				"\U002E" = ("insertText:", "\U00B7"); /* Compose, LATIN SMALL LETTER C, DIGIT ONE, FULL STOP: MIDDLE DOT */
+			};
+			"\U0033" = ("insertText:", "\U2663"); /* Compose, LATIN SMALL LETTER C, DIGIT THREE: BLACK CLUB SUIT */
+			"\U0060" = ("insertText:", "\U1D04"); /* Compose, LATIN SMALL LETTER C, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL C */
+			"\U007A" = ("insertText:", "\UA763"); /* Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER Z: LATIN SMALL LETTER VISIGOTHIC Z */
+		};
+		"\U0064" = {
+			"\U0026" = {
+				"\U0062" = ("insertText:", "\U0238"); /* Compose, LATIN SMALL LETTER D, AMPERSAND, LATIN SMALL LETTER B: LATIN SMALL LETTER DB DIGRAPH */
+			};
+			"\U0027" = ("insertText:", "\U0257"); /* Compose, LATIN SMALL LETTER D, APOSTROPHE: LATIN SMALL LETTER D WITH HOOK */
+			"\U002C" = ("insertText:", "\U0256"); /* Compose, LATIN SMALL LETTER D, COMMA: LATIN SMALL LETTER D WITH TAIL */
+			"\U0060" = ("insertText:", "\U1D05"); /* Compose, LATIN SMALL LETTER D, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL D */
+			"\U0061" = {
+				"\U0067" = ("insertText:", "\U2020"); /* Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER A, LATIN SMALL LETTER G: DAGGER */
+			};
+			"\U0064" = {
+				"\U0061" = {
+					"\U0067" = ("insertText:", "\U2021"); /* Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER D, LATIN SMALL LETTER A, LATIN SMALL LETTER G: DOUBLE DAGGER */
+				};
+			};
+			"\U0065" = {
+				"\U0066" = {
+					"\U003D" = ("insertText:", "\U225D"); /* Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER F, EQUALS SIGN: EQUAL TO BY DEFINITION */
+				};
+			};
+		};
+		"\U0065" = {
+			"\U0031" = {
+				"\U0030" = ("insertText:", "\U23E8"); /* Compose, LATIN SMALL LETTER E, DIGIT ONE, DIGIT ZERO: DECIMAL EXPONENT SYMBOL */
+			};
+			"\U003C" = ("insertText:", "\U0258"); /* Compose, LATIN SMALL LETTER E, LESS-THAN SIGN: LATIN SMALL LETTER REVERSED E */
+			"\U0060" = ("insertText:", "\U1D07"); /* Compose, LATIN SMALL LETTER E, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL E */
+			"\U0068" = ("insertText:", "\U025B"); /* Compose, LATIN SMALL LETTER E, LATIN SMALL LETTER H: LATIN SMALL LETTER OPEN E */
+			"\U0072" = ("insertText:", "\U025A"); /* Compose, LATIN SMALL LETTER E, LATIN SMALL LETTER R: LATIN SMALL LETTER SCHWA WITH HOOK */
+			"\UFF08" = ("insertText:", "\U0258"); /* Compose, LATIN SMALL LETTER E, FULLWIDTH LEFT PARENTHESIS: LATIN SMALL LETTER REVERSED E */
+		};
+		"\U0066" = {
+			"\U002C" = ("insertText:", "\U0192"); /* Compose, LATIN SMALL LETTER F, COMMA: LATIN SMALL LETTER F WITH HOOK */
+			"\U003C" = {
+				"\U0033" = ("insertText:", "\U2766"); /* Compose, LATIN SMALL LETTER F, LESS-THAN SIGN, DIGIT THREE: FLORAL HEART */
+			};
+			"\U0060" = ("insertText:", "\UA730"); /* Compose, LATIN SMALL LETTER F, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL F */
+			"\U0066" = ("insertText:", "\UFB00"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER F: LATIN SMALL LIGATURE FF */
+			"\U0069" = ("insertText:", "\UFB01"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER I: LATIN SMALL LIGATURE FI */
+			"\U006C" = ("insertText:", "\UFB02"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER L: LATIN SMALL LIGATURE FL */
+			"\U0070" = {
+				"\UFF52" = ("insertText:", "\U2710"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER P, FULLWIDTH LATIN SMALL LETTER R: UPPER RIGHT PENCIL */
+				"\UFF53" = ("insertText:", "\U270F"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER P, FULLWIDTH LATIN SMALL LETTER S: PENCIL */
+				"\UFF54" = ("insertText:", "\U270E"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER P, FULLWIDTH LATIN SMALL LETTER T: LOWER RIGHT PENCIL */
+			};
+			"\U0074" = ("insertText:", "\UFB05"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER T: LATIN SMALL LIGATURE LONG S T */
+			"\U0076" = ("insertText:", "\U270C"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER V: VICTORY HAND */
+			"\U0077" = ("insertText:", "\U270D"); /* Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER W: WRITING HAND */
+			"\UFF51" = ("insertText:", "\U261C"); /* Compose, LATIN SMALL LETTER F, FULLWIDTH LATIN SMALL LETTER Q: WHITE LEFT POINTING INDEX */
+			"\UFF52" = ("insertText:", "\U261D"); /* Compose, LATIN SMALL LETTER F, FULLWIDTH LATIN SMALL LETTER R: WHITE UP POINTING INDEX */
+			"\UFF53" = ("insertText:", "\U261E"); /* Compose, LATIN SMALL LETTER F, FULLWIDTH LATIN SMALL LETTER S: WHITE RIGHT POINTING INDEX */
+			"\UFF54" = ("insertText:", "\U261F"); /* Compose, LATIN SMALL LETTER F, FULLWIDTH LATIN SMALL LETTER T: WHITE DOWN POINTING INDEX */
+		};
+		"\U0067" = {
+			"\U0027" = ("insertText:", "\U0260"); /* Compose, LATIN SMALL LETTER G, APOSTROPHE: LATIN SMALL LETTER G WITH HOOK */
+			"\U0060" = ("insertText:", "\U0262"); /* Compose, LATIN SMALL LETTER G, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL G */
+			"\U0067" = ("insertText:", "\U0261"); /* Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER G: LATIN SMALL LETTER SCRIPT G */
+			"\U0068" = ("insertText:", "\U0263"); /* Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER H: LATIN SMALL LETTER GAMMA */
+			"\U0079" = ("insertText:", "\U025F"); /* Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER Y: LATIN SMALL LETTER DOTLESS J WITH STROKE */
+		};
+		"\U0068" = {
+			"\U0027" = ("insertText:", "\U0266"); /* Compose, LATIN SMALL LETTER H, APOSTROPHE: LATIN SMALL LETTER H WITH HOOK */
+			"\U002D" = ("insertText:", "\U210F"); /* Compose, LATIN SMALL LETTER H, HYPHEN-MINUS: PLANCK CONSTANT OVER TWO PI */
+			"\U0060" = ("insertText:", "\U029C"); /* Compose, LATIN SMALL LETTER H, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL H */
+			"\U0068" = ("insertText:", "\U0265"); /* Compose, LATIN SMALL LETTER H, LATIN SMALL LETTER H: LATIN SMALL LETTER TURNED H */
+			"\U0070" = ("insertText:", "\U210E"); /* Compose, LATIN SMALL LETTER H, LATIN SMALL LETTER P: PLANCK CONSTANT */
+		};
+		"\U0069" = {
+			"\U0060" = ("insertText:", "\U026A"); /* Compose, LATIN SMALL LETTER I, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL I */
+			"\U0068" = ("insertText:", "\U026A"); /* Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER H: LATIN LETTER SMALL CAPITAL I */
+			"\U006D" = ("insertText:", "\U1D45A"); /* Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER M: MATHEMATICAL ITALIC SMALL M */
+			"\U006E" = ("insertText:", "\U2208"); /* Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER N: ELEMENT OF */
+		};
+		"\U006A" = {
+			"\U002E" = ("insertText:", "\U0237"); /* Compose, LATIN SMALL LETTER J, FULL STOP: LATIN SMALL LETTER DOTLESS J */
+			"\U0060" = ("insertText:", "\U1D0A"); /* Compose, LATIN SMALL LETTER J, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL J */
+		};
+		"\U006B" = {
+			"\U0060" = ("insertText:", "\U1D0B"); /* Compose, LATIN SMALL LETTER K, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL K */
+			"\U0073" = ("insertText:", "\U0298"); /* Compose, LATIN SMALL LETTER K, LATIN SMALL LETTER S: LATIN LETTER BILABIAL CLICK */
+		};
+		"\U006C" = {
+			"\U0026" = {
+				"\U006C" = ("insertText:", "\U1EFB"); /* Compose, LATIN SMALL LETTER L, AMPERSAND, LATIN SMALL LETTER L: LATIN SMALL LETTER MIDDLE-WELSH LL */
+			};
+			"\U002C" = ("insertText:", "\U026D"); /* Compose, LATIN SMALL LETTER L, COMMA: LATIN SMALL LETTER L WITH RETROFLEX HOOK */
+			"\U0033" = ("insertText:", "\U026E"); /* Compose, LATIN SMALL LETTER L, DIGIT THREE: LATIN SMALL LETTER LEZH */
+			"\U0060" = ("insertText:", "\U029F"); /* Compose, LATIN SMALL LETTER L, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL L */
+			"\U0063" = {
+				"\U006C" = ("insertText:", "\U231C"); /* Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER C, LATIN SMALL LETTER L: TOP LEFT CORNER */
+			};
+			"\U0066" = {
+				"\U006C" = ("insertText:", "\U231E"); /* Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER F, LATIN SMALL LETTER L: BOTTOM LEFT CORNER */
+			};
+			"\U0068" = ("insertText:", "\U026C"); /* Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER H: LATIN SMALL LETTER L WITH BELT */
+			"\U006C" = ("insertText:", "\U2113"); /* Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER L: SCRIPT SMALL L */
+		};
+		"\U006D" = {
+			"\U0060" = ("insertText:", "\U1D0D"); /* Compose, LATIN SMALL LETTER M, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL M */
+			"\U0063" = {
+				"\U0053" = ("insertText:", "\U1D4E2"); /* Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER C, LATIN CAPITAL LETTER S: MATHEMATICAL BOLD SCRIPT CAPITAL S */
+				"\U0056" = ("insertText:", "\U1D4E5"); /* Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER C, LATIN CAPITAL LETTER V: MATHEMATICAL BOLD SCRIPT CAPITAL V */
+			};
+		};
+		"\U006E" = {
+			"\U002C" = ("insertText:", "\U0273"); /* Compose, LATIN SMALL LETTER N, COMMA: LATIN SMALL LETTER N WITH RETROFLEX HOOK */
+			"\U0060" = ("insertText:", "\U0274"); /* Compose, LATIN SMALL LETTER N, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL N */
+			"\U0069" = ("insertText:", "\U220B"); /* Compose, LATIN SMALL LETTER N, LATIN SMALL LETTER I: CONTAINS AS MEMBER */
+			"\U0074" = ("insertText:", "\U006E"); /* Compose, LATIN SMALL LETTER N, LATIN SMALL LETTER T: LATIN SMALL LETTER N */
+		};
+		"\U006F" = {
+			"\U0026" = {
+				"\U006F" = ("insertText:", "\UA74F"); /* Compose, LATIN SMALL LETTER O, AMPERSAND, LATIN SMALL LETTER O: LATIN SMALL LETTER OO */
+			};
+			"\U002B" = ("insertText:", "\UA66E"); /* Compose, LATIN SMALL LETTER O, PLUS SIGN: CYRILLIC LETTER MULTIOCULAR O */
+			"\U002C" = ("insertText:", "\U00B7"); /* Compose, LATIN SMALL LETTER O, COMMA: MIDDLE DOT */
+			"\U002D" = {
+				"\U002B" = ("insertText:", "\U2640"); /* Compose, LATIN SMALL LETTER O, HYPHEN-MINUS, PLUS SIGN: FEMALE SIGN */
+				"\U003E" = ("insertText:", "\U2642"); /* Compose, LATIN SMALL LETTER O, HYPHEN-MINUS, GREATER-THAN SIGN: MALE SIGN */
+			};
+			"\U002E" = {
+				"\U006F" = ("insertText:", "\UA66D"); /* Compose, LATIN SMALL LETTER O, FULL STOP, LATIN SMALL LETTER O: CYRILLIC SMALL LETTER DOUBLE MONOCULAR O */
+			};
+			"\U0033" = ("insertText:", "\U07F7"); /* Compose, LATIN SMALL LETTER O, DIGIT THREE: NKO SYMBOL GBAKURUNEN */
+			"\U0038" = ("insertText:", "\U2663"); /* Compose, LATIN SMALL LETTER O, DIGIT EIGHT: BLACK CLUB SUIT */
+			"\U003A" = ("insertText:", "\UA66B"); /* Compose, LATIN SMALL LETTER O, COLON: CYRILLIC SMALL LETTER BINOCULAR O */
+			"\U005F" = ("insertText:", "\U2043"); /* Compose, LATIN SMALL LETTER O, LOW LINE: HYPHEN BULLET */
+			"\U0060" = ("insertText:", "\U1D0F"); /* Compose, LATIN SMALL LETTER O, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL O */
+			"\U0067" = {
+				"\U0068" = ("insertText:", "\U0264"); /* Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER G, LATIN SMALL LETTER H: LATIN SMALL LETTER RAMS HORN */
+			};
+			"\U0075" = ("insertText:", "\U0223"); /* Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER U: LATIN SMALL LETTER OU */
+			"\U007A" = {
+				"\U002E" = ("insertText:", "\U2125"); /* Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER Z, FULL STOP: OUNCE SIGN */
+			};
+		};
+		"\U0070" = {
+			"\U002D" = ("insertText:", "\U20BD"); /* Compose, LATIN SMALL LETTER P, HYPHEN-MINUS:  */
+			"\U0060" = ("insertText:", "\U1D18"); /* Compose, LATIN SMALL LETTER P, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL P */
+			"\U0068" = ("insertText:", "\U0278"); /* Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER H: LATIN SMALL LETTER PHI */
+		};
+		"\U0071" = {
+			"\U0026" = {
+				"\U0070" = ("insertText:", "\U0239"); /* Compose, LATIN SMALL LETTER Q, AMPERSAND, LATIN SMALL LETTER P: LATIN SMALL LETTER QP DIGRAPH */
+			};
+		};
+		"\U0072" = {
+			"\U0060" = ("insertText:", "\U0280"); /* Compose, LATIN SMALL LETTER R, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL R */
+			"\U0063" = {
+				"\U006C" = ("insertText:", "\U231D"); /* Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER C, LATIN SMALL LETTER L: TOP RIGHT CORNER */
+			};
+			"\U0064" = ("insertText:", "\U027E"); /* Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER D: LATIN SMALL LETTER R WITH FISHHOOK */
+			"\U0066" = {
+				"\U006C" = ("insertText:", "\U231F"); /* Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER F, LATIN SMALL LETTER L: BOTTOM RIGHT CORNER */
+			};
+			"\U0072" = ("insertText:", "\U0279"); /* Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER R: LATIN SMALL LETTER TURNED R */
+		};
+		"\U0073" = {
+			"\U002C" = ("insertText:", "\U0282"); /* Compose, LATIN SMALL LETTER S, COMMA: LATIN SMALL LETTER S WITH HOOK */
+			"\U0060" = ("insertText:", "\UA731"); /* Compose, LATIN SMALL LETTER S, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL S */
+			"\U0063" = {
+				"\U0072" = {
+					"\U002E" = ("insertText:", "\U2108"); /* Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER C, LATIN SMALL LETTER R, FULL STOP: SCRUPLE */
+				};
+			};
+			"\U0065" = {
+				"\U0063" = ("insertText:", "\U00A7"); /* Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER E, LATIN SMALL LETTER C: SECTION SIGN */
+			};
+			"\U0068" = ("insertText:", "\U0283"); /* Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER H: LATIN SMALL LETTER ESH */
+			"\U0071" = ("insertText:", "\U221A"); /* Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER Q: SQUARE ROOT */
+			"\U0074" = ("insertText:", "\UFB06"); /* Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER T: LATIN SMALL LIGATURE ST */
+		};
+		"\U0074" = {
+			"\U002C" = ("insertText:", "\U0288"); /* Compose, LATIN SMALL LETTER T, COMMA: LATIN SMALL LETTER T WITH RETROFLEX HOOK */
+			"\U0060" = ("insertText:", "\U1D1B"); /* Compose, LATIN SMALL LETTER T, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL T */
+		};
+		"\U0075" = {
+			"\U0060" = ("insertText:", "\U1D1C"); /* Compose, LATIN SMALL LETTER U, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL U */
+			"\U0068" = ("insertText:", "\U028A"); /* Compose, LATIN SMALL LETTER U, LATIN SMALL LETTER H: LATIN SMALL LETTER UPSILON */
+			"\U0069" = ("insertText:", "\U026F"); /* Compose, LATIN SMALL LETTER U, LATIN SMALL LETTER I: LATIN SMALL LETTER TURNED M */
+		};
+		"\U0076" = {
+			"\U0026" = {
+				"\U0076" = ("insertText:", "\U1EFD"); /* Compose, LATIN SMALL LETTER V, AMPERSAND, LATIN SMALL LETTER V: LATIN SMALL LETTER MIDDLE-WELSH V */
+				"\U0079" = ("insertText:", "\UA761"); /* Compose, LATIN SMALL LETTER V, AMPERSAND, LATIN SMALL LETTER Y: LATIN SMALL LETTER VY */
+			};
+			"\U002E" = {
+				"\U002E" = ("insertText:", "\U22EE"); /* Compose, LATIN SMALL LETTER V, FULL STOP, FULL STOP: VERTICAL ELLIPSIS */
+			};
+			"\U0060" = ("insertText:", "\U1D20"); /* Compose, LATIN SMALL LETTER V, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL V */
+			"\U0065" = ("insertText:", "\U2019"); /* Compose, LATIN SMALL LETTER V, LATIN SMALL LETTER E: RIGHT SINGLE QUOTATION MARK */
+			"\U0076" = ("insertText:", "\U028C"); /* Compose, LATIN SMALL LETTER V, LATIN SMALL LETTER V: LATIN SMALL LETTER TURNED V */
+		};
+		"\U0077" = {
+			"\U0060" = ("insertText:", "\U1D21"); /* Compose, LATIN SMALL LETTER W, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL W */
+			"\U0063" = {
+				"\U0069" = ("insertText:", "\U25EF"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER C, LATIN SMALL LETTER I: LARGE CIRCLE */
+			};
+			"\U0064" = {
+				"\U0074" = ("insertText:", "\U25BD"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER D, LATIN SMALL LETTER T: WHITE DOWN-POINTING TRIANGLE */
+			};
+			"\U0070" = ("insertText:", "\U2118"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER P: WEIERSTRASS ELLIPTIC FUNCTION */
+			"\U0073" = {
+				"\U0071" = ("insertText:", "\U25A1"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER S, LATIN SMALL LETTER Q: WHITE SQUARE */
+				"\U0073" = ("insertText:", "\U2610"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER S, LATIN SMALL LETTER S: BALLOT BOX */
+			};
+			"\U0075" = {
+				"\U0074" = ("insertText:", "\U25B3"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER U, LATIN SMALL LETTER T: WHITE UP-POINTING TRIANGLE */
+			};
+			"\U0077" = ("insertText:", "\U028D"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER W: LATIN SMALL LETTER TURNED W */
+			"\U0079" = ("insertText:", "\U01BF"); /* Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER Y: LATIN LETTER WYNN */
+		};
+		"\U0079" = {
+			"\U0060" = ("insertText:", "\U028F"); /* Compose, LATIN SMALL LETTER Y, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL Y */
+			"\U0067" = ("insertText:", "\U021D"); /* Compose, LATIN SMALL LETTER Y, LATIN SMALL LETTER G: LATIN SMALL LETTER YOGH */
+			"\U0072" = ("insertText:", "\U01A6"); /* Compose, LATIN SMALL LETTER Y, LATIN SMALL LETTER R: LATIN LETTER YR */
+			"\U0079" = ("insertText:", "\U028E"); /* Compose, LATIN SMALL LETTER Y, LATIN SMALL LETTER Y: LATIN SMALL LETTER TURNED Y */
+		};
+		"\U007A" = {
+			"\U002C" = ("insertText:", "\U0290"); /* Compose, LATIN SMALL LETTER Z, COMMA: LATIN SMALL LETTER Z WITH RETROFLEX HOOK */
+			"\U002E" = ("insertText:", "\UA76B"); /* Compose, LATIN SMALL LETTER Z, FULL STOP: LATIN SMALL LETTER ET */
+			"\U0060" = ("insertText:", "\U1D22"); /* Compose, LATIN SMALL LETTER Z, GRAVE ACCENT: LATIN LETTER SMALL CAPITAL Z */
+			"\U0068" = ("insertText:", "\U0292"); /* Compose, LATIN SMALL LETTER Z, LATIN SMALL LETTER H: LATIN SMALL LETTER EZH */
+		};
+		"\U007B" = {
+			"\U0028" = ("insertText:", "\U2282"); /* Compose, LEFT CURLY BRACKET, LEFT PARENTHESIS: SUBSET OF */
+			"\U0029" = ("insertText:", "\U2283"); /* Compose, LEFT CURLY BRACKET, RIGHT PARENTHESIS: SUPERSET OF */
+			"\U003D" = {
+				"\U0028" = ("insertText:", "\U2286"); /* Compose, LEFT CURLY BRACKET, EQUALS SIGN, LEFT PARENTHESIS: SUBSET OF OR EQUAL TO */
+				"\U0029" = ("insertText:", "\U2287"); /* Compose, LEFT CURLY BRACKET, EQUALS SIGN, RIGHT PARENTHESIS: SUPERSET OF OR EQUAL TO */
+			};
+			"\U0055" = ("insertText:", "\U222A"); /* Compose, LEFT CURLY BRACKET, LATIN CAPITAL LETTER U: UNION */
+			"\U005E" = ("insertText:", "\U2229"); /* Compose, LEFT CURLY BRACKET, CIRCUMFLEX ACCENT: INTERSECTION */
+		};
+		"\U007C" = {
+			"\U0027" = ("insertText:", "\U02C8"); /* Compose, VERTICAL LINE, APOSTROPHE: MODIFIER LETTER VERTICAL LINE */
+			"\U002A" = {
+				"\U0050" = ("insertText:", "\U213F"); /* Compose, VERTICAL LINE, ASTERISK, LATIN CAPITAL LETTER P: DOUBLE-STRUCK CAPITAL PI */
+				"\U0053" = ("insertText:", "\U2140"); /* Compose, VERTICAL LINE, ASTERISK, LATIN CAPITAL LETTER S: DOUBLE-STRUCK N-ARY SUMMATION */
+				"\U0070" = ("insertText:", "\U213C"); /* Compose, VERTICAL LINE, ASTERISK, LATIN SMALL LETTER P: DOUBLE-STRUCK SMALL PI */
+			};
+			"\U002C" = ("insertText:", "\U02CC"); /* Compose, VERTICAL LINE, COMMA: MODIFIER LETTER LOW VERTICAL LINE */
+			"\U002D" = ("insertText:", "\U22A2"); /* Compose, VERTICAL LINE, HYPHEN-MINUS: RIGHT TACK */
+			"\U003A" = ("insertText:", "\U2982"); /* Compose, VERTICAL LINE, COLON: Z NOTATION TYPE COLON */
+			"\U003B" = ("insertText:", "\U2A3E"); /* Compose, VERTICAL LINE, SEMICOLON: Z NOTATION RELATIONAL COMPOSITION */
+			"\U003C" = {
+				"\U0042" = {
+					"\U0053" = ("insertText:", "\U26CA"); /* Compose, VERTICAL LINE, LESS-THAN SIGN, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER S: TURNED BLACK SHOGI PIECE */
+				};
+				"\U0057" = {
+					"\U0053" = ("insertText:", "\U26C9"); /* Compose, VERTICAL LINE, LESS-THAN SIGN, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER S: TURNED WHITE SHOGI PIECE */
+				};
+			};
+			"\U003E" = ("insertText:", "\U2023"); /* Compose, VERTICAL LINE, GREATER-THAN SIGN: TRIANGULAR BULLET */
+			"\U0042" = {
+				"\U0042" = ("insertText:", "\U265D"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER B: BLACK CHESS BISHOP */
+				"\U0044" = {
+					"\U004B" = ("insertText:", "\U26C3"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER K: BLACK DRAUGHTS KING */
+					"\U004D" = ("insertText:", "\U26C2"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER M: BLACK DRAUGHTS MAN */
+				};
+				"\U004B" = ("insertText:", "\U265A"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER K: BLACK CHESS KING */
+				"\U004E" = ("insertText:", "\U265E"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER N: BLACK CHESS KNIGHT */
+				"\U0050" = ("insertText:", "\U265F"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER P: BLACK CHESS PAWN */
+				"\U0051" = ("insertText:", "\U265B"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER Q: BLACK CHESS QUEEN */
+				"\U0052" = ("insertText:", "\U265C"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER R: BLACK CHESS ROOK */
+				"\U0053" = ("insertText:", "\U2617"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER B, LATIN CAPITAL LETTER S: BLACK SHOGI PIECE */
+			};
+			"\U0043" = ("insertText:", "\U2102"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER C: DOUBLE-STRUCK CAPITAL C */
+			"\U0048" = ("insertText:", "\U210D"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER H: DOUBLE-STRUCK CAPITAL H */
+			"\U004E" = ("insertText:", "\U2115"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER N: DOUBLE-STRUCK CAPITAL N */
+			"\U0050" = ("insertText:", "\U2119"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER P: DOUBLE-STRUCK CAPITAL P */
+			"\U0051" = ("insertText:", "\U211A"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER Q: DOUBLE-STRUCK CAPITAL Q */
+			"\U0052" = ("insertText:", "\U211D"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER R: DOUBLE-STRUCK CAPITAL R */
+			"\U0057" = {
+				"\U0042" = ("insertText:", "\U2657"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER B: WHITE CHESS BISHOP */
+				"\U0044" = {
+					"\U004B" = ("insertText:", "\U26C1"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER K: WHITE DRAUGHTS KING */
+					"\U004D" = ("insertText:", "\U26C0"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER D, LATIN CAPITAL LETTER M: WHITE DRAUGHTS MAN */
+				};
+				"\U004B" = ("insertText:", "\U2654"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER K: WHITE CHESS KING */
+				"\U004E" = ("insertText:", "\U2658"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER N: WHITE CHESS KNIGHT */
+				"\U0050" = ("insertText:", "\U2659"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER P: WHITE CHESS PAWN */
+				"\U0051" = ("insertText:", "\U2655"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER Q: WHITE CHESS QUEEN */
+				"\U0052" = ("insertText:", "\U2656"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER R: WHITE CHESS ROOK */
+				"\U0053" = ("insertText:", "\U2616"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER W, LATIN CAPITAL LETTER S: WHITE SHOGI PIECE */
+			};
+			"\U005A" = ("insertText:", "\U2124"); /* Compose, VERTICAL LINE, LATIN CAPITAL LETTER Z: DOUBLE-STRUCK CAPITAL Z */
+			"\U005B" = ("insertText:", "\U27E6"); /* Compose, VERTICAL LINE, LEFT SQUARE BRACKET: MATHEMATICAL LEFT WHITE SQUARE BRACKET */
+			"\U005F" = ("insertText:", "\U0329"); /* Compose, VERTICAL LINE, LOW LINE: COMBINING VERTICAL LINE BELOW */
+			"\U0065" = ("insertText:", "\U2147"); /* Compose, VERTICAL LINE, LATIN SMALL LETTER E: DOUBLE-STRUCK ITALIC SMALL E */
+			"\U0069" = ("insertText:", "\U2148"); /* Compose, VERTICAL LINE, LATIN SMALL LETTER I: DOUBLE-STRUCK ITALIC SMALL I */
+			"\U006A" = ("insertText:", "\U2149"); /* Compose, VERTICAL LINE, LATIN SMALL LETTER J: DOUBLE-STRUCK ITALIC SMALL J */
+			"\U007B" = ("insertText:", "\U2983"); /* Compose, VERTICAL LINE, LEFT CURLY BRACKET: LEFT WHITE CURLY BRACKET */
+			"\U007D" = ("insertText:", "\U2984"); /* Compose, VERTICAL LINE, RIGHT CURLY BRACKET: RIGHT WHITE CURLY BRACKET */
+			"\U07D0" = ("insertText:", "\U213F"); /* Compose, VERTICAL LINE, NKO LETTER O: DOUBLE-STRUCK CAPITAL PI */
+			"\U07D2" = ("insertText:", "\U2140"); /* Compose, VERTICAL LINE, NKO LETTER N: DOUBLE-STRUCK N-ARY SUMMATION */
+			"\U07F0" = ("insertText:", "\U213C"); /* Compose, VERTICAL LINE, NKO COMBINING LONG LOW TONE: DOUBLE-STRUCK SMALL PI */
+		};
+		"\U007E" = {
+			"\U003D" = ("insertText:", "\U2245"); /* Compose, TILDE, EQUALS SIGN: APPROXIMATELY EQUAL TO */
+			"\U007C" = ("insertText:", "\U2E2F"); /* Compose, TILDE, VERTICAL LINE: VERTICAL TILDE */
+			"\U007E" = ("insertText:", "\U2248"); /* Compose, TILDE, TILDE: ALMOST EQUAL TO */
+		};
+		"\U00A1" = {
+			"\U00BF" = ("insertText:", "\U2E18"); /* Compose, INVERTED EXCLAMATION MARK, INVERTED QUESTION MARK: INVERTED INTERROBANG */
+		};
+		"\U00A7" = {
+			"\U0024" = {
+				"\U0062" = {
+					"\U0061" = {
+						"\U0067" = ("insertText:", "\U1F4B0"); /* Compose, Compose, DOLLAR SIGN, LATIN SMALL LETTER B, LATIN SMALL LETTER A, LATIN SMALL LETTER G: MONEY BAG */
+					};
+				};
+			};
+			"\U002A" = {
+				"\U002E" = ("insertText:", "\U22C5"); /* Compose, Compose, ASTERISK, FULL STOP: DOT OPERATOR */
+				"\U006F" = ("insertText:", "\U2218"); /* Compose, Compose, ASTERISK, LATIN SMALL LETTER O: RING OPERATOR */
+				"\U0078" = ("insertText:", "\U2A2F"); /* Compose, Compose, ASTERISK, LATIN SMALL LETTER X: VECTOR OR CROSS PRODUCT */
+			};
+			"\U0031" = {
+				"\U006D" = {
+					"\U0065" = {
+						"\U0064" = ("insertText:", "\U2695"); /* Compose, Compose, DIGIT ONE, LATIN SMALL LETTER M, LATIN SMALL LETTER E, LATIN SMALL LETTER D: STAFF OF AESCULAPIUS */
+					};
+				};
+			};
+			"\U0041" = {
+				"\U0041" = {
+					"\U0041" = {
+						"\U0041" = {
+							"\U0041" = ("insertText:", "\U26E4"); /* Compose, Compose, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER A: PENTAGRAM */
+						};
+					};
+				};
+				"\U004F" = {
+					"\U004B" = ("insertText:", "\U1F44C"); /* Compose, Compose, LATIN CAPITAL LETTER A, LATIN CAPITAL LETTER O, LATIN CAPITAL LETTER K: OK HAND SIGN */
+				};
+			};
+			"\U0042" = {
+				"\U0065" = {
+					"\U006C" = {
+						"\U006C" = {
+							"\U0073" = {
+								"\U0079" = {
+									"\U006D" = ("insertText:", "\U237E"); /* Compose, Compose, LATIN CAPITAL LETTER B, LATIN SMALL LETTER E, LATIN SMALL LETTER L, LATIN SMALL LETTER L, LATIN SMALL LETTER S, LATIN SMALL LETTER Y, LATIN SMALL LETTER M: BELL SYMBOL */
+								};
+							};
+						};
+					};
+				};
+			};
+			"\U0051" = {
+				"\U0045" = {
+					"\U0044" = ("insertText:", "\U220E"); /* Compose, Compose, LATIN CAPITAL LETTER Q, LATIN CAPITAL LETTER E, LATIN CAPITAL LETTER D: END OF PROOF */
+				};
+			};
+			"\U0061" = {
+				"\U006C" = {
+					"\U0065" = {
+						"\U0066" = ("insertText:", "\U2135"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER F: ALEF SYMBOL */
+						"\U0070" = {
+							"\U0030" = ("insertText:", "\U2135"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER P, DIGIT ZERO: ALEF SYMBOL */
+							"\U0031" = ("insertText:", "\U2135"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER P, DIGIT ONE: ALEF SYMBOL */
+							"\U0068" = ("insertText:", "\U2135"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER P, LATIN SMALL LETTER H: ALEF SYMBOL */
+						};
+					};
+				};
+				"\U006E" = {
+					"\U0067" = {
+						"\U0065" = {
+							"\U0072" = ("insertText:", "\U1F4A2"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER G, LATIN SMALL LETTER E, LATIN SMALL LETTER R: ANGER SYMBOL */
+						};
+					};
+				};
+				"\U0071" = {
+					"\U0075" = {
+						"\U0061" = {
+							"\U0072" = ("insertText:", "\U2652"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER Q, LATIN SMALL LETTER U, LATIN SMALL LETTER A, LATIN SMALL LETTER R: AQUARIUS */
+						};
+					};
+				};
+				"\U0072" = {
+					"\U0069" = {
+						"\U0065" = {
+							"\U0073" = ("insertText:", "\U2648"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER R, LATIN SMALL LETTER I, LATIN SMALL LETTER E, LATIN SMALL LETTER S: ARIES */
+						};
+					};
+				};
+				"\U0074" = {
+					"\U006F" = {
+						"\U006D" = ("insertText:", "\U269B"); /* Compose, Compose, LATIN SMALL LETTER A, LATIN SMALL LETTER T, LATIN SMALL LETTER O, LATIN SMALL LETTER M: ATOM SYMBOL */
+					};
+				};
+			};
+			"\U0062" = {
+				"\U0064" = {
+					"\U0061" = {
+						"\U0079" = ("insertText:", "\U1F382"); /* Compose, Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER D, LATIN SMALL LETTER A, LATIN SMALL LETTER Y: BIRTHDAY CAKE */
+					};
+				};
+				"\U0065" = {
+					"\U0063" = {
+						"\U0061" = {
+							"\U0075" = {
+								"\U0073" = {
+									"\U0065" = ("insertText:", "\U2235"); /* Compose, Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER E, LATIN SMALL LETTER C, LATIN SMALL LETTER A, LATIN SMALL LETTER U, LATIN SMALL LETTER S, LATIN SMALL LETTER E: BECAUSE */
+								};
+							};
+						};
+					};
+				};
+				"\U0068" = ("insertText:", "\U2623"); /* Compose, Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER H: BIOHAZARD SIGN */
+				"\U0069" = {
+					"\U006F" = {
+						"\U0068" = {
+							"\U0061" = {
+								"\U007A" = ("insertText:", "\U2623"); /* Compose, Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER I, LATIN SMALL LETTER O, LATIN SMALL LETTER H, LATIN SMALL LETTER A, LATIN SMALL LETTER Z: BIOHAZARD SIGN */
+							};
+						};
+					};
+				};
+				"\U006F" = {
+					"\U006D" = {
+						"\U0062" = ("insertText:", "\U1F4A3"); /* Compose, Compose, LATIN SMALL LETTER B, LATIN SMALL LETTER O, LATIN SMALL LETTER M, LATIN SMALL LETTER B: BOMB */
+					};
+				};
+			};
+			"\U0063" = {
+				"\U0050" = {
+					"\U0069" = {
+						"\U006E" = {
+							"\U0074" = ("insertText:", "\U2A13"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN CAPITAL LETTER P, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE */
+						};
+					};
+				};
+				"\U0061" = {
+					"\U006B" = {
+						"\U0065" = ("insertText:", "\U1F370"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER A, LATIN SMALL LETTER K, LATIN SMALL LETTER E: SHORTCAKE */
+					};
+					"\U006E" = {
+						"\U0063" = {
+							"\U0065" = {
+								"\U0072" = ("insertText:", "\U264B"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER C, LATIN SMALL LETTER E, LATIN SMALL LETTER R: CANCER */
+							};
+						};
+					};
+					"\U0070" = {
+						"\U0072" = {
+							"\U0069" = {
+								"\U0063" = ("insertText:", "\U2651"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER A, LATIN SMALL LETTER P, LATIN SMALL LETTER R, LATIN SMALL LETTER I, LATIN SMALL LETTER C: CAPRICORN */
+							};
+						};
+					};
+				};
+				"\U0063" = {
+					"\U0063" = {
+						"\U0070" = ("insertText:", "\U262D"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER C, LATIN SMALL LETTER C, LATIN SMALL LETTER P: HAMMER AND SICKLE */
+					};
+				};
+				"\U0065" = {
+					"\U0072" = {
+						"\U0065" = {
+							"\U0073" = ("insertText:", "\U26B3"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER E, LATIN SMALL LETTER R, LATIN SMALL LETTER E, LATIN SMALL LETTER S: CERES */
+						};
+					};
+				};
+				"\U0068" = {
+					"\U0069" = {
+						"\U0072" = {
+							"\U006F" = {
+								"\U006E" = ("insertText:", "\U26B7"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER H, LATIN SMALL LETTER I, LATIN SMALL LETTER R, LATIN SMALL LETTER O, LATIN SMALL LETTER N: CHIRON */
+							};
+						};
+					};
+					"\U006B" = ("insertText:", "\U2611"); /* Compose, Compose, LATIN SMALL LETTER C, LATIN SMALL LETTER H, LATIN SMALL LETTER K: BALLOT BOX WITH CHECK */
+				};
+			};
+			"\U0064" = {
+				"\U0065" = {
+					"\U0067" = {
+						"\U0043" = ("insertText:", "\U2103"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER G, LATIN CAPITAL LETTER C: DEGREE CELSIUS */
+						"\U0046" = ("insertText:", "\U2109"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER G, LATIN CAPITAL LETTER F: DEGREE FAHRENHEIT */
+						"\U0063" = ("insertText:", "\U2103"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER G, LATIN SMALL LETTER C: DEGREE CELSIUS */
+						"\U0066" = ("insertText:", "\U2109"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER G, LATIN SMALL LETTER F: DEGREE FAHRENHEIT */
+						"\U0072" = {
+							"\U0065" = {
+								"\U0065" = ("insertText:", "\U00B0"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER G, LATIN SMALL LETTER R, LATIN SMALL LETTER E, LATIN SMALL LETTER E: DEGREE SIGN */
+							};
+						};
+					};
+					"\U006C" = ("insertText:", "\U2207"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER L: NABLA */
+				};
+				"\U0069" = {
+					"\U007A" = {
+						"\U007A" = {
+							"\U0079" = ("insertText:", "\U1F4AB"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER I, LATIN SMALL LETTER Z, LATIN SMALL LETTER Z, LATIN SMALL LETTER Y: DIZZY SYMBOL */
+						};
+					};
+				};
+				"\U0072" = {
+					"\U006F" = {
+						"\U0070" = ("insertText:", "\U1F4A7"); /* Compose, Compose, LATIN SMALL LETTER D, LATIN SMALL LETTER R, LATIN SMALL LETTER O, LATIN SMALL LETTER P: DROPLET */
+					};
+				};
+			};
+			"\U0065" = {
+				"\U0078" = {
+					"\U0070" = ("insertText:", "\U212F"); /* Compose, Compose, LATIN SMALL LETTER E, LATIN SMALL LETTER X, LATIN SMALL LETTER P: SCRIPT SMALL E */
+				};
+			};
+			"\U0066" = {
+				"\U0064" = {
+					"\U006C" = ("insertText:", "\U269C"); /* Compose, Compose, LATIN SMALL LETTER F, LATIN SMALL LETTER D, LATIN SMALL LETTER L: FLEUR-DE-LIS */
+				};
+			};
+			"\U0067" = {
+				"\U0061" = {
+					"\U0079" = ("insertText:", "\U26A3"); /* Compose, Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER A, LATIN SMALL LETTER Y: DOUBLED MALE SIGN */
+				};
+				"\U0065" = {
+					"\U006D" = {
+						"\U0069" = {
+							"\U006E" = {
+								"\U0069" = ("insertText:", "\U264A"); /* Compose, Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER E, LATIN SMALL LETTER M, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER I: GEMINI */
+							};
+						};
+					};
+					"\U006E" = {
+						"\U0064" = {
+							"\U0065" = {
+								"\U0072" = {
+									"\U0071" = ("insertText:", "\U26A7"); /* Compose, Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER E, LATIN SMALL LETTER N, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER R, LATIN SMALL LETTER Q: MALE WITH STROKE AND MALE AND FEMALE SIGN */
+								};
+							};
+						};
+					};
+				};
+				"\U0069" = {
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U2A18"); /* Compose, Compose, LATIN SMALL LETTER G, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: INTEGRAL WITH TIMES SIGN */
+					};
+				};
+			};
+			"\U0068" = {
+				"\U0062" = {
+					"\U0061" = {
+						"\U0072" = ("insertText:", "\U210F"); /* Compose, Compose, LATIN SMALL LETTER H, LATIN SMALL LETTER B, LATIN SMALL LETTER A, LATIN SMALL LETTER R: PLANCK CONSTANT OVER TWO PI */
+					};
+				};
+				"\U0065" = {
+					"\U0074" = {
+						"\U0065" = {
+							"\U0072" = {
+								"\U006F" = ("insertText:", "\U26A4"); /* Compose, Compose, LATIN SMALL LETTER H, LATIN SMALL LETTER E, LATIN SMALL LETTER T, LATIN SMALL LETTER E, LATIN SMALL LETTER R, LATIN SMALL LETTER O: INTERLOCKED FEMALE AND MALE SIGN */
+							};
+						};
+					};
+				};
+				"\U006F" = {
+					"\U0075" = {
+						"\U0072" = ("insertText:", "\U231B"); /* Compose, Compose, LATIN SMALL LETTER H, LATIN SMALL LETTER O, LATIN SMALL LETTER U, LATIN SMALL LETTER R: HOURGLASS */
+					};
+				};
+			};
+			"\U0069" = {
+				"\U0064" = {
+					"\U0065" = {
+						"\U0061" = ("insertText:", "\U1F4A1"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER D, LATIN SMALL LETTER E, LATIN SMALL LETTER A: ELECTRIC LIGHT BULB */
+					};
+				};
+				"\U0069" = {
+					"\U0069" = {
+						"\U0069" = {
+							"\U006E" = {
+								"\U0074" = ("insertText:", "\U2A0C"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: QUADRUPLE INTEGRAL OPERATOR */
+							};
+						};
+						"\U006E" = {
+							"\U0074" = ("insertText:", "\U222D"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: TRIPLE INTEGRAL */
+						};
+					};
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U222C"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: DOUBLE INTEGRAL */
+					};
+				};
+				"\U006E" = {
+					"\U0074" = ("insertText:", "\U222B"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: INTEGRAL */
+				};
+				"\U0077" = {
+					"\U0069" = {
+						"\U0074" = ("insertText:", "\U1F441"); /* Compose, Compose, LATIN SMALL LETTER I, LATIN SMALL LETTER W, LATIN SMALL LETTER I, LATIN SMALL LETTER T:  */
+					};
+				};
+			};
+			"\U006A" = {
+				"\U0075" = {
+					"\U006E" = {
+						"\U006F" = ("insertText:", "\U26B5"); /* Compose, Compose, LATIN SMALL LETTER J, LATIN SMALL LETTER U, LATIN SMALL LETTER N, LATIN SMALL LETTER O: JUNO */
+					};
+					"\U0070" = {
+						"\U0069" = {
+							"\U0074" = {
+								"\U0065" = {
+									"\U0072" = ("insertText:", "\U2643"); /* Compose, Compose, LATIN SMALL LETTER J, LATIN SMALL LETTER U, LATIN SMALL LETTER P, LATIN SMALL LETTER I, LATIN SMALL LETTER T, LATIN SMALL LETTER E, LATIN SMALL LETTER R: JUPITER */
+								};
+							};
+						};
+					};
+				};
+			};
+			"\U006B" = {
+				"\U0062" = {
+					"\U0064" = ("insertText:", "\U2328"); /* Compose, Compose, LATIN SMALL LETTER K, LATIN SMALL LETTER B, LATIN SMALL LETTER D: KEYBOARD */
+				};
+				"\U0069" = {
+					"\U0073" = {
+						"\U0073" = ("insertText:", "\U1F48B"); /* Compose, Compose, LATIN SMALL LETTER K, LATIN SMALL LETTER I, LATIN SMALL LETTER S, LATIN SMALL LETTER S: KISS MARK */
+					};
+				};
+			};
+			"\U006C" = {
+				"\U0065" = {
+					"\U006F" = ("insertText:", "\U264C"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER O: LEO */
+					"\U0073" = {
+						"\U0062" = {
+							"\U0069" = {
+								"\U0061" = {
+									"\U006E" = ("insertText:", "\U26A2"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER E, LATIN SMALL LETTER S, LATIN SMALL LETTER B, LATIN SMALL LETTER I, LATIN SMALL LETTER A, LATIN SMALL LETTER N: DOUBLED FEMALE SIGN */
+								};
+							};
+						};
+					};
+				};
+				"\U0068" = {
+					"\U0061" = {
+						"\U006E" = {
+							"\U0064" = ("insertText:", "\U261C"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER H, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER D: WHITE LEFT POINTING INDEX */
+						};
+					};
+				};
+				"\U0069" = {
+					"\U0062" = {
+						"\U0072" = {
+							"\U0061" = ("insertText:", "\U264E"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER I, LATIN SMALL LETTER B, LATIN SMALL LETTER R, LATIN SMALL LETTER A: LIBRA */
+						};
+					};
+					"\U0065" = ("insertText:", "\U1F382"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER I, LATIN SMALL LETTER E: BIRTHDAY CAKE */
+					"\U006C" = {
+						"\U0069" = {
+							"\U0074" = {
+								"\U0068" = ("insertText:", "\U26B8"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER I, LATIN SMALL LETTER L, LATIN SMALL LETTER I, LATIN SMALL LETTER T, LATIN SMALL LETTER H: BLACK MOON LILITH */
+							};
+						};
+					};
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U2A1C"); /* Compose, Compose, LATIN SMALL LETTER L, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: INTEGRAL WITH UNDERBAR */
+					};
+				};
+			};
+			"\U006D" = {
+				"\U0061" = {
+					"\U0069" = {
+						"\U006C" = ("insertText:", "\U2709"); /* Compose, Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER A, LATIN SMALL LETTER I, LATIN SMALL LETTER L: ENVELOPE */
+					};
+				};
+				"\U0065" = {
+					"\U0064" = ("insertText:", "\U2624"); /* Compose, Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER E, LATIN SMALL LETTER D: CADUCEUS */
+					"\U0072" = {
+						"\U0063" = {
+							"\U0075" = {
+								"\U0072" = {
+									"\U0079" = ("insertText:", "\U263F"); /* Compose, Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER E, LATIN SMALL LETTER R, LATIN SMALL LETTER C, LATIN SMALL LETTER U, LATIN SMALL LETTER R, LATIN SMALL LETTER Y: MERCURY */
+								};
+							};
+						};
+					};
+				};
+				"\U006F" = {
+					"\U006F" = {
+						"\U006E" = ("insertText:", "\U263D"); /* Compose, Compose, LATIN SMALL LETTER M, LATIN SMALL LETTER O, LATIN SMALL LETTER O, LATIN SMALL LETTER N: FIRST QUARTER MOON */
+					};
+				};
+			};
+			"\U006E" = {
+				"\U0065" = {
+					"\U0070" = {
+						"\U0074" = {
+							"\U0075" = {
+								"\U006E" = {
+									"\U0065" = ("insertText:", "\U2646"); /* Compose, Compose, LATIN SMALL LETTER N, LATIN SMALL LETTER E, LATIN SMALL LETTER P, LATIN SMALL LETTER T, LATIN SMALL LETTER U, LATIN SMALL LETTER N, LATIN SMALL LETTER E: NEPTUNE */
+								};
+							};
+						};
+					};
+				};
+			};
+			"\U006F" = {
+				"\U0069" = {
+					"\U0069" = {
+						"\U0069" = {
+							"\U006E" = {
+								"\U0074" = ("insertText:", "\U2230"); /* Compose, Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: VOLUME INTEGRAL */
+							};
+						};
+						"\U006E" = {
+							"\U0074" = ("insertText:", "\U222F"); /* Compose, Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER I, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: SURFACE INTEGRAL */
+						};
+					};
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U222E"); /* Compose, Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: CONTOUR INTEGRAL */
+					};
+				};
+				"\U0070" = {
+					"\U0068" = {
+						"\U0069" = {
+							"\U0075" = {
+								"\U0063" = ("insertText:", "\U26CE"); /* Compose, Compose, LATIN SMALL LETTER O, LATIN SMALL LETTER P, LATIN SMALL LETTER H, LATIN SMALL LETTER I, LATIN SMALL LETTER U, LATIN SMALL LETTER C: OPHIUCHUS */
+							};
+						};
+					};
+				};
+			};
+			"\U0070" = {
+				"\U0061" = {
+					"\U006C" = {
+						"\U006C" = {
+							"\U0061" = {
+								"\U0073" = ("insertText:", "\U26B4"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER L, LATIN SMALL LETTER A, LATIN SMALL LETTER S: PALLAS */
+							};
+						};
+						"\U006D" = ("insertText:", "\U2E19"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER A, LATIN SMALL LETTER L, LATIN SMALL LETTER M: PALM BRANCH */
+					};
+					"\U0072" = {
+						"\U0074" = ("insertText:", "\U2202"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER A, LATIN SMALL LETTER R, LATIN SMALL LETTER T: PARTIAL DIFFERENTIAL */
+					};
+				};
+				"\U0063" = ("insertText:", "\U262E"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER C: PEACE SYMBOL */
+				"\U0065" = {
+					"\U0061" = {
+						"\U0063" = {
+							"\U0065" = ("insertText:", "\U262E"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER E, LATIN SMALL LETTER A, LATIN SMALL LETTER C, LATIN SMALL LETTER E: PEACE SYMBOL */
+						};
+					};
+				};
+				"\U0069" = {
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U2A15"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: INTEGRAL AROUND A POINT OPERATOR */
+					};
+					"\U0073" = {
+						"\U0063" = {
+							"\U0065" = {
+								"\U0073" = ("insertText:", "\U2653"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER I, LATIN SMALL LETTER S, LATIN SMALL LETTER C, LATIN SMALL LETTER E, LATIN SMALL LETTER S: PISCES */
+							};
+						};
+					};
+				};
+				"\U006C" = {
+					"\U0061" = {
+						"\U006E" = {
+							"\U0065" = ("insertText:", "\U2708"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER L, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER E: AIRPLANE */
+						};
+					};
+					"\U0075" = {
+						"\U0074" = {
+							"\U006F" = ("insertText:", "\U2647"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER L, LATIN SMALL LETTER U, LATIN SMALL LETTER T, LATIN SMALL LETTER O: PLUTO */
+						};
+					};
+				};
+				"\U006F" = {
+					"\U006F" = ("insertText:", "\U1F4A9"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER O, LATIN SMALL LETTER O: PILE OF POO */
+					"\U0077" = ("insertText:", "\U1F4A5"); /* Compose, Compose, LATIN SMALL LETTER P, LATIN SMALL LETTER O, LATIN SMALL LETTER W: COLLISION SYMBOL */
+				};
+			};
+			"\U0072" = {
+				"\U0061" = {
+					"\U0064" = ("insertText:", "\U2622"); /* Compose, Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER A, LATIN SMALL LETTER D: RADIOACTIVE SIGN */
+				};
+				"\U0068" = {
+					"\U0061" = {
+						"\U006E" = {
+							"\U0064" = ("insertText:", "\U261E"); /* Compose, Compose, LATIN SMALL LETTER R, LATIN SMALL LETTER H, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER D: WHITE RIGHT POINTING INDEX */
+						};
+					};
+				};
+			};
+			"\U0073" = {
+				"\U0061" = {
+					"\U0067" = {
+						"\U0069" = {
+							"\U0074" = ("insertText:", "\U2650"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER A, LATIN SMALL LETTER G, LATIN SMALL LETTER I, LATIN SMALL LETTER T: SAGITTARIUS */
+						};
+					};
+					"\U0074" = {
+						"\U0075" = {
+							"\U0072" = {
+								"\U006E" = ("insertText:", "\U2644"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER A, LATIN SMALL LETTER T, LATIN SMALL LETTER U, LATIN SMALL LETTER R, LATIN SMALL LETTER N: SATURN */
+							};
+						};
+					};
+				};
+				"\U0063" = {
+					"\U006F" = {
+						"\U0072" = {
+							"\U0070" = ("insertText:", "\U264F"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER C, LATIN SMALL LETTER O, LATIN SMALL LETTER R, LATIN SMALL LETTER P: SCORPIUS */
+						};
+					};
+				};
+				"\U0068" = {
+					"\U0061" = {
+						"\U006D" = {
+							"\U0072" = {
+								"\U006F" = ("insertText:", "\U2618"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER H, LATIN SMALL LETTER A, LATIN SMALL LETTER M, LATIN SMALL LETTER R, LATIN SMALL LETTER O: SHAMROCK */
+							};
+						};
+					};
+					"\U006D" = {
+						"\U0072" = {
+							"\U0063" = {
+								"\U006B" = ("insertText:", "\U2618"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER H, LATIN SMALL LETTER M, LATIN SMALL LETTER R, LATIN SMALL LETTER C, LATIN SMALL LETTER K: SHAMROCK */
+							};
+						};
+					};
+				};
+				"\U0069" = {
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U2A0B"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: SUMMATION WITH INTEGRAL */
+					};
+				};
+				"\U0075" = {
+					"\U006D" = ("insertText:", "\U2211"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER U, LATIN SMALL LETTER M: N-ARY SUMMATION */
+					"\U006E" = ("insertText:", "\U2609"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER U, LATIN SMALL LETTER N: SUN */
+				};
+				"\U0077" = {
+					"\U0065" = {
+						"\U0061" = {
+							"\U0074" = ("insertText:", "\U1F4A6"); /* Compose, Compose, LATIN SMALL LETTER S, LATIN SMALL LETTER W, LATIN SMALL LETTER E, LATIN SMALL LETTER A, LATIN SMALL LETTER T: SPLASHING SWEAT SYMBOL */
+						};
+					};
+				};
+			};
+			"\U0074" = {
+				"\U0061" = {
+					"\U0075" = {
+						"\U0072" = {
+							"\U0075" = {
+								"\U0073" = ("insertText:", "\U2649"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER A, LATIN SMALL LETTER U, LATIN SMALL LETTER R, LATIN SMALL LETTER U, LATIN SMALL LETTER S: TAURUS */
+							};
+						};
+					};
+				};
+				"\U0065" = {
+					"\U0061" = ("insertText:", "\U2615"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER E, LATIN SMALL LETTER A: HOT BEVERAGE */
+					"\U006C" = ("insertText:", "\U260E"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER E, LATIN SMALL LETTER L: BLACK TELEPHONE */
+				};
+				"\U0068" = {
+					"\U006D" = {
+						"\U0064" = {
+							"\U006E" = ("insertText:", "\U1F44E"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER H, LATIN SMALL LETTER M, LATIN SMALL LETTER D, LATIN SMALL LETTER N: THUMBS DOWN SIGN */
+						};
+						"\U0075" = {
+							"\U0070" = ("insertText:", "\U1F44D"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER H, LATIN SMALL LETTER M, LATIN SMALL LETTER U, LATIN SMALL LETTER P: THUMBS UP SIGN */
+						};
+					};
+				};
+				"\U0069" = {
+					"\U006D" = {
+						"\U0065" = ("insertText:", "\U231A"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER I, LATIN SMALL LETTER M, LATIN SMALL LETTER E: WATCH */
+					};
+				};
+				"\U0072" = {
+					"\U0061" = {
+						"\U006E" = {
+							"\U0073" = ("insertText:", "\U26A5"); /* Compose, Compose, LATIN SMALL LETTER T, LATIN SMALL LETTER R, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER S: MALE AND FEMALE SIGN */
+						};
+					};
+				};
+			};
+			"\U0075" = {
+				"\U0069" = {
+					"\U006E" = {
+						"\U0074" = ("insertText:", "\U2A1B"); /* Compose, Compose, LATIN SMALL LETTER U, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER T: INTEGRAL WITH OVERBAR */
+					};
+				};
+				"\U0072" = {
+					"\U0061" = {
+						"\U006E" = {
+							"\U0075" = {
+								"\U0073" = ("insertText:", "\U2645"); /* Compose, Compose, LATIN SMALL LETTER U, LATIN SMALL LETTER R, LATIN SMALL LETTER A, LATIN SMALL LETTER N, LATIN SMALL LETTER U, LATIN SMALL LETTER S: URANUS */
+							};
+						};
+					};
+				};
+			};
+			"\U0076" = {
+				"\U0065" = {
+					"\U0073" = {
+						"\U0074" = {
+							"\U0061" = ("insertText:", "\U26B6"); /* Compose, Compose, LATIN SMALL LETTER V, LATIN SMALL LETTER E, LATIN SMALL LETTER S, LATIN SMALL LETTER T, LATIN SMALL LETTER A: VESTA */
+						};
+					};
+				};
+				"\U0069" = {
+					"\U0072" = {
+						"\U0067" = {
+							"\U006F" = ("insertText:", "\U264D"); /* Compose, Compose, LATIN SMALL LETTER V, LATIN SMALL LETTER I, LATIN SMALL LETTER R, LATIN SMALL LETTER G, LATIN SMALL LETTER O: VIRGO */
+						};
+					};
+				};
+			};
+			"\U0077" = {
+				"\U0061" = {
+					"\U0069" = {
+						"\U0074" = ("insertText:", "\U231B"); /* Compose, Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER A, LATIN SMALL LETTER I, LATIN SMALL LETTER T: HOURGLASS */
+					};
+					"\U0074" = {
+						"\U0063" = {
+							"\U0068" = ("insertText:", "\U231A"); /* Compose, Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER A, LATIN SMALL LETTER T, LATIN SMALL LETTER C, LATIN SMALL LETTER H: WATCH */
+						};
+					};
+				};
+				"\U0068" = {
+					"\U006C" = {
+						"\U0063" = {
+							"\U0068" = ("insertText:", "\U267F"); /* Compose, Compose, LATIN SMALL LETTER W, LATIN SMALL LETTER H, LATIN SMALL LETTER L, LATIN SMALL LETTER C, LATIN SMALL LETTER H: WHEELCHAIR SYMBOL */
+						};
+					};
+				};
+			};
+			"\U0079" = {
+				"\U0069" = {
+					"\U006E" = {
+						"\U0079" = {
+							"\U0061" = {
+								"\U006E" = ("insertText:", "\U262F"); /* Compose, Compose, LATIN SMALL LETTER Y, LATIN SMALL LETTER I, LATIN SMALL LETTER N, LATIN SMALL LETTER Y, LATIN SMALL LETTER A, LATIN SMALL LETTER N: YIN YANG */
+							};
+						};
+					};
+				};
+				"\U0079" = ("insertText:", "\U262F"); /* Compose, Compose, LATIN SMALL LETTER Y, LATIN SMALL LETTER Y: YIN YANG */
+			};
+			"\U007A" = {
+				"\U0061" = {
+					"\U0070" = ("insertText:", "\U26A1"); /* Compose, Compose, LATIN SMALL LETTER Z, LATIN SMALL LETTER A, LATIN SMALL LETTER P: HIGH VOLTAGE SIGN */
+				};
+				"\U0069" = {
+					"\U0070" = ("insertText:", "\U1F4A8"); /* Compose, Compose, LATIN SMALL LETTER Z, LATIN SMALL LETTER I, LATIN SMALL LETTER P: DASH SYMBOL */
+				};
+				"\U007A" = {
+					"\U007A" = ("insertText:", "\U1F4A4"); /* Compose, Compose, LATIN SMALL LETTER Z, LATIN SMALL LETTER Z, LATIN SMALL LETTER Z: SLEEPING SYMBOL */
+				};
+			};
+		};
+		"\U00BF" = {
+			"\U00A1" = ("insertText:", "\U2E18"); /* Compose, INVERTED QUESTION MARK, INVERTED EXCLAMATION MARK: INVERTED INTERROBANG */
+		};
+		"\U00FE" = {
+			"\U0074" = ("insertText:", "\UA765"); /* Compose, LATIN SMALL LETTER THORN, LATIN SMALL LETTER T: LATIN SMALL LETTER THORN WITH STROKE */
+		};
+		"\U017F" = {
+			"\U0074" = ("insertText:", "\UFB05"); /* Compose, LATIN SMALL LETTER LONG S, LATIN SMALL LETTER T: LATIN SMALL LIGATURE LONG S T */
+		};
+		"\U2208" = {
+			"\U002F" = ("insertText:", "\U2209"); /* Compose, ELEMENT OF, SOLIDUS: NOT AN ELEMENT OF */
+		};
+		"\U220B" = {
+			"\U002F" = ("insertText:", "\U220C"); /* Compose, CONTAINS AS MEMBER, SOLIDUS: DOES NOT CONTAIN AS MEMBER */
+		};
+		"\UFF08" = {
+			"\U0065" = {
+				"\U0068" = ("insertText:", "\U025C"); /* Compose, FULLWIDTH LEFT PARENTHESIS, LATIN SMALL LETTER E, LATIN SMALL LETTER H: LATIN SMALL LETTER REVERSED OPEN E */
+				"\U0072" = ("insertText:", "\U025D"); /* Compose, FULLWIDTH LEFT PARENTHESIS, LATIN SMALL LETTER E, LATIN SMALL LETTER R: LATIN SMALL LETTER REVERSED OPEN E WITH HOOK */
+			};
+		};
+		"\UFF51" = {
+			"\U002D" = ("insertText:", "\U21E0"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, HYPHEN-MINUS: LEFTWARDS DASHED ARROW */
+			"\U003C" = {
+				"\U0033" = ("insertText:", "\U2765"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, LESS-THAN SIGN, DIGIT THREE: ROTATED HEAVY BLACK HEART BULLET */
+			};
+			"\U0063" = ("insertText:", "\U21BA"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, LATIN SMALL LETTER C: ANTICLOCKWISE OPEN CIRCLE ARROW */
+			"\U0066" = {
+				"\U003C" = {
+					"\U0033" = ("insertText:", "\U2767"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, LATIN SMALL LETTER F, LESS-THAN SIGN, DIGIT THREE: ROTATED FLORAL HEART BULLET */
+				};
+			};
+			"\U006F" = ("insertText:", "\U27F2"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, LATIN SMALL LETTER O: ANTICLOCKWISE GAPPED CIRCLE ARROW */
+			"\U007C" = ("insertText:", "\U21E4"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, VERTICAL LINE: LEFTWARDS ARROW TO BAR */
+			"\U007E" = ("insertText:", "\U21DC"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, TILDE: LEFTWARDS SQUIGGLE ARROW */
+			"\UFF51" = ("insertText:", "\U2190"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, FULLWIDTH LATIN SMALL LETTER Q: LEFTWARDS ARROW */
+			"\UFF53" = ("insertText:", "\U2194"); /* Compose, FULLWIDTH LATIN SMALL LETTER Q, FULLWIDTH LATIN SMALL LETTER S: LEFT RIGHT ARROW */
+		};
+		"\UFF52" = {
+			"\U0026" = {
+				"\UFF54" = ("insertText:", "\U21F5"); /* Compose, FULLWIDTH LATIN SMALL LETTER R, AMPERSAND, FULLWIDTH LATIN SMALL LETTER T: DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW */
+			};
+			"\U002D" = ("insertText:", "\U21E1"); /* Compose, FULLWIDTH LATIN SMALL LETTER R, HYPHEN-MINUS: UPWARDS DASHED ARROW */
+			"\UFF52" = ("insertText:", "\U2191"); /* Compose, FULLWIDTH LATIN SMALL LETTER R, FULLWIDTH LATIN SMALL LETTER R: UPWARDS ARROW */
+			"\UFF54" = ("insertText:", "\U2195"); /* Compose, FULLWIDTH LATIN SMALL LETTER R, FULLWIDTH LATIN SMALL LETTER T: UP DOWN ARROW */
+		};
+		"\UFF53" = {
+			"\U002D" = ("insertText:", "\U21E2"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, HYPHEN-MINUS: RIGHTWARDS DASHED ARROW */
+			"\U0063" = ("insertText:", "\U21BB"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, LATIN SMALL LETTER C: CLOCKWISE OPEN CIRCLE ARROW */
+			"\U0066" = {
+				"\U003C" = {
+					"\U0033" = ("insertText:", "\U2619"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, LATIN SMALL LETTER F, LESS-THAN SIGN, DIGIT THREE: REVERSED ROTATED FLORAL HEART BULLET */
+				};
+			};
+			"\U006F" = ("insertText:", "\U27F3"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, LATIN SMALL LETTER O: CLOCKWISE GAPPED CIRCLE ARROW */
+			"\U007C" = ("insertText:", "\U21E5"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, VERTICAL LINE: RIGHTWARDS ARROW TO BAR */
+			"\U007E" = ("insertText:", "\U21DD"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, TILDE: RIGHTWARDS SQUIGGLE ARROW */
+			"\UFF51" = ("insertText:", "\U2194"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, FULLWIDTH LATIN SMALL LETTER Q: LEFT RIGHT ARROW */
+			"\UFF53" = ("insertText:", "\U2192"); /* Compose, FULLWIDTH LATIN SMALL LETTER S, FULLWIDTH LATIN SMALL LETTER S: RIGHTWARDS ARROW */
+		};
+		"\UFF54" = {
+			"\U002D" = ("insertText:", "\U21E3"); /* Compose, FULLWIDTH LATIN SMALL LETTER T, HYPHEN-MINUS: DOWNWARDS DASHED ARROW */
+			"\UFF51" = ("insertText:", "\U21B5"); /* Compose, FULLWIDTH LATIN SMALL LETTER T, FULLWIDTH LATIN SMALL LETTER Q: DOWNWARDS ARROW WITH CORNER LEFTWARDS */
+			"\UFF54" = ("insertText:", "\U2193"); /* Compose, FULLWIDTH LATIN SMALL LETTER T, FULLWIDTH LATIN SMALL LETTER T: DOWNWARDS ARROW */
+		};
+		"\UFFAA" = {
+			"\UFFAA" = ("insertText:", "\U2217"); /* Compose, HALFWIDTH HANGUL LETTER RIEUL-KIYEOK, HALFWIDTH HANGUL LETTER RIEUL-KIYEOK: ASTERISK OPERATOR */
+		};
+	};
+}
