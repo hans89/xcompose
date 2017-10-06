@@ -11,6 +11,8 @@ include "%L"
 #     emit(' '.join("<%s>" % char for char in str(num)), 0x245f + num, word)
 
 # Custom additions: Typography
+<Multi_key> <bar> <bar> <minus>         : "⊢" U22A2         # RIGHT STACK, VDASH, ENTAILS
+<Multi_key> <bar> <minus> <greater>     : "↦" U21A6       # RIGHTWARDS ARROW FROM BAR
 <Multi_key> <w> <d> <t>                 : "▽" U25BD         # WHITE DOWN-POINTING TRIANGLE
 <Multi_key> <w> <u> <t>                 : "△" U25B3         # WHITE UP-POINTING TRIANGLE
 <Multi_key> <b> <u> <t>                 : "▲" U25B2         # BLACK UP-POINTING TRIANGLE
@@ -25,12 +27,13 @@ include "%L"
 <Multi_key> <w> <s> <s>                 : "☐" U2610         # BALLOT BOX
 <Multi_key> <backslash> <greater>       : "▷" U25B7	        # WHITE RIGHT-POINTING TRIANGLE
 <Multi_key> <less> <asciitilde> <greater> : "↭" U21AD       # LEFT RIGHT WAVE ARROW
+<Multi_key> <bar> <minus> <bar>         : "⊓" U2293         # SQUARE CAP
 <Multi_key> <bar> <underscore> <bar>    : "⊔" U2294         # SQUARE UNION
 <Multi_key> <less> <minus> <slash>      : "↩" U21A9         # Leftwards Arrow With Hook
 <Multi_key> <slash> <minus> <greater>   : "↪" U21AA         # Rightwards Arrow With Hook
-<Multi_key> <bar> <minus>               : "⊢" U22A2         # RIGHT STACK, VDASH, ENTAILS     
 <Multi_key> <m> <c> <V>	            	: "𝓥" U1D4E5        # Mathcal V
 <Multi_key> <m> <c> <S>	            	: "𝓢" U1D4E2        # Mathcal S
+<Multi_key> <m> <c> <N>	            	: "𝓝" U1D4DD        # Mathcal N
 <Multi_key> <i> <m>                     : "𝑚" U1D45A        # ITALIC SMALL M
 <Multi_key> <period> <period>		    : "…"	U2026		# HORIZONTAL ELLIPSIS
 <Multi_key> <v> <period> <period>	    : "⋮"	U22EE		# VERTICAL ELLIPSIS
