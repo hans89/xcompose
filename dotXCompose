@@ -11,6 +11,7 @@ include "%L"
 #     emit(' '.join("<%s>" % char for char in str(num)), 0x245f + num, word)
 
 # Custom additions: Typography
+<Multi_key> <bar> <equal>               : "⊨" U22A8         # VDASH, MODELS, DOUBLE TURNSTILE
 <Multi_key> <bar> <bar> <minus>         : "⊢" U22A2         # RIGHT STACK, VDASH, ENTAILS
 <Multi_key> <bar> <minus> <greater>     : "↦" U21A6       # RIGHTWARDS ARROW FROM BAR
 <Multi_key> <w> <d> <t>                 : "▽" U25BD         # WHITE DOWN-POINTING TRIANGLE
